@@ -1,0 +1,39 @@
+Category,Average_Similarity,Matrix_Type
+Accessories,0.35327876758794996,Interitem
+Body Parts,0.4109381574182563,Interitem
+Clothing,0.4206309810679613,Interitem
+Food,0.36076454372415506,Interitem
+Fruits & Vegetables,0.34971903531412485,Interitem
+Furnishings,0.3184411986221177,Interitem
+Kitchen Items,0.32373598497255024,Interitem
+Mammals,0.3681546315638202,Interitem
+Musical Instrument,0.3872598509113614,Interitem
+Nature,0.32465770358676593,Interitem
+Non Mammal,0.3423077810614889,Interitem
+Office Supplies,0.32437803994393194,Interitem
+Parts of Buildings,0.363571251171001,Interitem
+Structure,0.2751318184628207,Interitem
+Toiletries,0.37131704237013474,Interitem
+Tools & Hardware,0.3055584502884535,Interitem
+Toys & Games,0.30877310668489744,Interitem
+Types of People,0.28920292134172565,Interitem
+Vehicles,0.3464254870647634,Interitem
+Accessories,0.29759680723589454,Label
+Body Parts,0.4098442466431605,Label
+Clothing,0.46833321344698436,Label
+Food,0.39579860792769506,Label
+Fruits & Vegetables,0.3588668003398049,Label
+Furnishings,0.3379457672755296,Label
+Kitchen Items,0.2669286122258043,Label
+Mammals,0.337334738748551,Label
+Musical Instrument,0.4663838332334819,Label
+Nature,0.24791820581578947,Label
+Non Mammal,0.2996954233990658,Label
+Office Supplies,0.3010532867425137,Label
+Parts of Buildings,0.22376195082588646,Label
+Structure,0.26878045125434386,Label
+Toiletries,0.3014800974171712,Label
+Tools & Hardware,0.24979431604337463,Label
+Toys & Games,0.2984996772182067,Label
+Types of People,0.18634671181466947,Label
+Vehicles,0.3534365030300601,Label
