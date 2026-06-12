@@ -40,25 +40,44 @@ library(corrplot)
 ```{r}
 # Import
 stimuli <- suppressMessages(
-  read_excel("../stimuli/660CorpusMasterSheet.xlsx"))
+  read_csv("../stimuli/670Corpus.csv"))
 
-# Grab relevant columns, sort by Category, mark and exclude items w/ no category label 
-stimuli_clean<-stimuli %>%select(Name, Category) %>% arrange(Category)%>%filter(Category!="NA")
+library(dplyr)
 
-# Split Categories into Separate Files 
-#stimuli_split <- split(stimuli_clean, stimuli_clean$Category)
+# Clean + sort 
+stimuli_clean <- stimuli %>%
+  select(NormName, CategoryName) %>%
+  arrange(CategoryName) %>%
+  filter(!is.na(CategoryName), CategoryName != "NA")
+
+# Split by category
+stimuli_split <- split(stimuli_clean, stimuli_clean$CategoryName)
 
 # Create main output directory
-#dir.create("stimuli_by_category", showWarnings = FALSE)
+dir.create("stimuli_by_category", showWarnings = FALSE)
 
-# Write separate csv files, create subfolder for each category
-#for (cat in names(stimuli_split)) {
-  #dir.create(file.path("stimuli_by_category", cat), showWarnings = FALSE)
-  #df_out <- stimuli_split[[cat]][ , !(names(stimuli_split[[cat]]) %in% "Category") ]   # remove Category column for data processing
- # write.csv(
-  #  df_out,
-  #  file = file.path("stimuli_by_category", cat, "vocab.csv"),
-  #  row.names = FALSE)}
+# Write files
+for (cat in names(stimuli_split)) {
+
+  dir.create(file.path("stimuli_by_category", cat), showWarnings = FALSE)
+
+  df_cat <- stimuli_split[[cat]]
+
+  # remove category column
+  words <- df_cat$NormName
+
+  # ---- ADD CATEGORY NAME AS FIRST ROW ----
+  output_vec <- c(cat, words)
+
+  # write to CSV as single-column file
+  write.table(
+    data.frame(output_vec),
+    file = file.path("stimuli_by_category", cat, "vocab.csv"),
+    row.names = FALSE,
+    col.names = FALSE,
+    quote = FALSE
+  )
+}
 
 ```
 
@@ -147,26 +166,15 @@ These matrices were then run through a function to get average similarities for 
 
 ## Looking At Average Similarities
 
-We now have three types of similarity. 1) Category Norm/Fit, from original ratings, 2) Similarity between category label and each item, derived from word embeddings, and 3) Pairwise similarities between items in each category, derived from word embeddings. First, we will calculate the average of each type of similarity for each category and combine into one data frame. 
+First, we will calculate the average of each type of similarity for each category and combine into one data frame. 
 
 ```{r}
 #calculate average similarity (ie, how well given item fits in category) from original rating data
-stimuli_avg <- stimuli %>%
-  select(Name, Category, "Category Norm") %>%
-  rename(CategoryNorm = "Category Norm") %>%
-  filter(Category != "NA") %>%
+stimuli_avg <- stimuli %>% rename(Name=NormName,Category=CategoryName)%>%
+  select(Name, Category) %>%
+  filter(Category != "Uncategorized") %>%
   arrange(Category) %>%
-  mutate(
-    CategoryNorm_scaled = (CategoryNorm - min(CategoryNorm, na.rm = TRUE)) / #min/max scaled fit score for later comparison
-      (max(CategoryNorm, na.rm = TRUE) - min(CategoryNorm, na.rm = TRUE))) %>%
-  group_by(Category) %>%
-  summarize(
-    Average_Similarity = mean(CategoryNorm_scaled, na.rm = TRUE),       # scaled mean
-    SD_Similarity = sd(CategoryNorm_scaled, na.rm = TRUE),              # scaled SD
-    Average_Similarity_raw = mean(CategoryNorm, na.rm = TRUE),          # raw mean
-    SD_Similarity_raw = sd(CategoryNorm, na.rm = TRUE)                  # raw SD
-  ) %>%
-  mutate(Similarity_Type = "Rating")
+  group_by(Category) 
 
 #import DSM derived item x label similarities for each category & combine into one df
 base_dir <- "stimuli_by_category"
@@ -196,28 +204,19 @@ average_similarities<-read.csv("category_average_similarity_combined.csv")%>%ren
 
 
 #link data
-average_similarities_comp<-average_similarities%>%rbind(stimuli_avg%>%select(-Average_Similarity_raw,-SD_Similarity_raw,-SD_Similarity))%>%
+average_similarities<-average_similarities%>%
   pivot_wider(
     names_from = Similarity_Type,
-    values_from = Average_Similarity)
+    values_from = Average_Similarity)%>%filter(CategoryName!="Uncategorized")
 ```
 
 
-Now, let's look at average category fit from the original ratings. Note that 1 = Fits very well into category, 4 = Very poor fit. We can then compare them to the average label-item and item-item similarities.
+Now, let's look at the average label-item and item-item similarities.
 
 ```{r}
-#average category fit ratings
-avg_ratings<-stimuli_avg %>% ggplot(aes(x = Category, y = Average_Similarity_raw,fill=Category)) +
-  geom_col() +
-  geom_errorbar(aes(ymin = Average_Similarity_raw - SD_Similarity_raw,
-                    ymax = Average_Similarity_raw + SD_Similarity_raw),
-                width = 0.2) + scale_y_reverse()+
-  ylim(4,0) + ylab("Avg Rating (Poorest Fit -> Best Fit)")+ ggtitle("Avg Category Norm Ratings")+
-  theme_classic() +theme(legend.position="none")+
-  theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 #average label x item similarities (DSM derived)
-avg_label<-average_similarities_comp %>% mutate(SD_Similarity = sd(Label, na.rm = TRUE))%>% ggplot(aes(x = Category, y = Label,fill=Category)) +
+avg_label<-average_similarities_comp %>% mutate(SD_Similarity = sd(Label, na.rm = TRUE))%>% ggplot(aes(x = CategoryName, y = Label,fill=CategoryName)) +
   geom_col() +
   geom_errorbar(aes(ymin = Label - SD_Similarity,
                     ymax = Label + SD_Similarity),
@@ -227,7 +226,7 @@ avg_label<-average_similarities_comp %>% mutate(SD_Similarity = sd(Label, na.rm 
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 #average inter-item similarity across categories
-avg_interitem<-average_similarities_comp %>% mutate(SD_Similarity = sd(Interitem, na.rm = TRUE))%>% ggplot(aes(x = Category, y = Interitem,fill=Category)) +
+avg_interitem<-average_similarities_comp %>% mutate(SD_Similarity = sd(Interitem, na.rm = TRUE))%>% ggplot(aes(x = CategoryName, y = Interitem,fill=CategoryName)) +
   geom_col() +
   geom_errorbar(aes(ymin = Interitem - SD_Similarity,
                     ymax = Interitem + SD_Similarity),
@@ -238,83 +237,14 @@ avg_interitem<-average_similarities_comp %>% mutate(SD_Similarity = sd(Interitem
 
 
 #compare distributions
-avg_ratings
 avg_label
 avg_interitem
 ```
 <div style="clear: both;"></div>
-## Correlations 
 
-We can then look at the correlation between the average Category Norm fit ratings and the embedding derived similarities. Note that min/max scaling was applied to the ratings to convert them to a 0-1 scale and plot axis was reversed to appropriately map onto embedding-derived similarities.
-
-A note about interpretation. In the context of distributional semantic models, similarity follows Firth's quote *“You shall know a word by the company it keeps.”* So words are similar to the extent that they appear in similar contexts and are used in a similar manner within the text corpora the models are trained on. So when thinking about the similarity between the category label and each word, its important to consider that superordinate category labels are not used in the same manner as exemplar labels. So while the similarity between the label and exemplar is informative, it may be more informative to consider the average inter-item similarities as a measure of **cohesion** within a given category, which may provide more fine-grained information than the category fit ratings. It is arguably this type of cohesion that is driving stronger interference effects, such that it could be used for stimulus selection.
+We can also look at outliers in each category to mark weak items. Note this is only for the ratings-derived and label x item similarities.
 
 ```{r}
-#Correlation between average (scaled) ratings of category fit vs average DSM-derived similarity between category label and items
-label_correlation <- average_similarities_comp %>%
-  ggplot(aes(x = Label, y = Rating)) +
-  geom_point() +
-  scale_y_reverse() +
-  geom_text_repel(aes(label = Category)) +
-  geom_smooth(method = "lm", se = FALSE) +
-  xlab("Avg Category Label x Item Similarity") +
-  ylab("Avg Category Fit Rating (Scaled)") + ggtitle("Correlation Between Avg Category Norm Ratings & Avg Label x Item Similarities")+
-  theme_classic()
-
-label_correlation
-
-#Correlation between average (scaled) ratings of item x category fit vs average DSM-derived interitem similarity (cohesion)
-interitem_corr <- average_similarities_comp %>%
-  ggplot(aes(x = Interitem, y = Rating)) +
-  geom_point() +
-  scale_y_reverse() +
-  geom_text_repel(aes(label = Category)) +
-  geom_smooth(method = "lm", se = FALSE) +
-  xlab("Avg Interitem Similarity") +
-  ylab("Avg Category Fit Rating (Scaled)") + ggtitle("Correlation Between Avg Category Norm Ratings & Avg Item x Item Similarities")+
-  theme_classic()
-
-interitem_corr
-
-#may be best to choose items based on 1) avg fit between item and category label and 2) Category cohesion (avg interitem similarity)
-```
-
-## Distributions
-Lastly, we can also look at outliers in each category to mark weak items. Note this is only for the ratings-derived and label x item similarities.
-
-```{r}
-#Item-wise distribution of normative ratings across categories
-#ID outliers
-stimuli_outliers <- stimuli %>%
-  filter(Category != "NA") %>%
-  group_by(Category) %>%
-  mutate(
-    Q1 = quantile(`Category Norm`, 0.25, na.rm = TRUE),
-    Q3 = quantile(`Category Norm`, 0.75, na.rm = TRUE),
-    IQR = IQR(`Category Norm`, na.rm = TRUE),
-    lower = Q1 - 1.5 * IQR,
-    upper = Q3 + 1.5 * IQR,
-    is_outlier = `Category Norm` < lower | `Category Norm` > upper
-  ) %>%
-  ungroup()
-
-#plot
-item_wise_ratings_plot<-stimuli %>%
-  filter(!is.na(Category), Category != "NA") %>%
-  ggplot(aes(x = Category, y = `Category Norm`, fill = Category)) +
-  geom_boxplot(outlier.shape = NA) +
-  geom_jitter(width = 0.15, alpha = 0.4, size = 1) +
-  coord_flip() + scale_y_reverse()+
-  geom_text_repel(
-    data = stimuli_outliers %>% filter(is_outlier),
-    aes(label = Name),
-    size = 3,
-    max.overlaps = 50
-  ) +
-  theme_classic() + ylab("Category Fit (Poorest Fit -> Best Fit)")+ggtitle("Distribution of Category Norm Ratings")+
-  theme(legend.position = "none")
-
-item_wise_ratings_plot
 
 #Item wise distribution of label x item similarity across categories (DSM derived)
 #ID outliers
@@ -350,12 +280,17 @@ itemwise_dsm_plot<-item_similarities_long %>%
 itemwise_dsm_plot
 ```
 
-But we can also look at the distribution of item-item similarities and identify items with weak cohesion. Below, I've marked (in red) the 3 items in each category with the lowest average similarity.
+We can also look at the distribution of item-item similarities and identify items with weak cohesion. Below, I've marked (in red) the 3 items in each category with the lowest average similarity.
 
 ```{r}
+library(purrr)
+library(corrplot)
 
 base_dir <- "stimuli_by_category"
 cat_dirs <- list.dirs(base_dir, recursive = FALSE)
+
+# store results here
+all_item_means <- data.frame()
 
 walk(cat_dirs, function(cat_path) {
   cat_name <- basename(cat_path)
@@ -365,19 +300,29 @@ walk(cat_dirs, function(cat_path) {
   mat <- read.csv(file_path, row.names = 1, check.names = FALSE)
   mat <- as.matrix(mat)
   mode(mat) <- "numeric"
-  
+
   # compute mean similarity (exclude diagonal)
   mat_avg <- mat
   diag(mat_avg) <- NA
   item_means <- rowMeans(mat_avg, na.rm = TRUE)
 
+  # ---- NEW: save to global dataframe ----
+  df_cat <- data.frame(
+    category = cat_name,
+    item = names(item_means),
+    CohesionScore = as.numeric(item_means),
+    row.names = NULL
+  )
+
+  all_item_means <<- rbind(all_item_means, df_cat)
+
   # identify 3 lowest items
   lowest_items <- names(sort(item_means))[1:3]
   label_colors <- ifelse(rownames(mat) %in% lowest_items, "red", "black")
-  
-  col_fun <- colorRampPalette(c("red", "navy"))(100)
-  
-  # plot
+
+  col_fun <- colorRampPalette(c("red", "navy"))(200)
+
+  # plot (UNCHANGED)
   corrplot(
     mat,
     method = "color",
@@ -387,7 +332,16 @@ walk(cat_dirs, function(cat_path) {
     tl.cex = 0.7,
     title = cat_name,
     col.lim = c(0, 1),
-    mar = c(0, 0, 2, 0))})
+    mar = c(0, 0, 2, 0)
+  )
+})
+
+```
+# Output average cohesion scores per item per category
+
+```{r}
+all_item_means_join<-all_item_means %>%left_join(item_similarities_long%>%rename(item=Item,category=Category,LabelCohesionScore=Similarity))
+#write.csv(all_item_means_join,"670_Cohesion_scores.csv")
 
 ```
 
