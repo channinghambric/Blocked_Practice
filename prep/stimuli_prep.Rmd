@@ -216,7 +216,7 @@ Now, let's look at the average label-item and item-item similarities.
 ```{r}
 
 #average label x item similarities (DSM derived)
-avg_label<-average_similarities_comp %>% mutate(SD_Similarity = sd(Label, na.rm = TRUE))%>% ggplot(aes(x = CategoryName, y = Label,fill=CategoryName)) +
+avg_label<-average_similarities %>% mutate(SD_Similarity = sd(Label, na.rm = TRUE))%>% ggplot(aes(x = CategoryName, y = Label,fill=CategoryName)) +
   geom_col() +
   geom_errorbar(aes(ymin = Label - SD_Similarity,
                     ymax = Label + SD_Similarity),
@@ -226,7 +226,7 @@ avg_label<-average_similarities_comp %>% mutate(SD_Similarity = sd(Label, na.rm 
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 #average inter-item similarity across categories
-avg_interitem<-average_similarities_comp %>% mutate(SD_Similarity = sd(Interitem, na.rm = TRUE))%>% ggplot(aes(x = CategoryName, y = Interitem,fill=CategoryName)) +
+avg_interitem<-average_similarities %>% mutate(SD_Similarity = sd(Interitem, na.rm = TRUE))%>% ggplot(aes(x = CategoryName, y = Interitem,fill=CategoryName)) +
   geom_col() +
   geom_errorbar(aes(ymin = Interitem - SD_Similarity,
                     ymax = Interitem + SD_Similarity),

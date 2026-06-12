@@ -544,52 +544,52 @@ ItemNumber,Image,Audio,NormName,NameAgr,FrqPerMil.Log10,LOG10(SUBTLWF +1),SUBTLW
 535,thermometer_535_mono.jpg,thermometer_535_mono.wav,thermometer,0.9,0.505149978,0.504617428,3.196078431,2.196078431,1.142857143,10,??rm?m?t?r,??m?m?t?r,1,4,thermometer,?,Tools & Hardware,0.265579214,0.290665386
 577,vacuum_577_mono.jpg,vacuum_577_mono.wav,vacuum,0.8,0.829946696,0.830248919,6.764705882,5.764705882,1.833333333,6,vækjum,vækj?m,1,2,vacuum,v,Tools & Hardware,0.179154834,0.316146037
 610,wrench_610_mono.jpg,wrench_610_mono.wav,wrench,0.95,0.695481676,0.695550345,4.960784314,3.960784314,2.5,4,r?nt?,,1,1,wrench,r,Tools & Hardware,0.418374794,0.328636218
-26,ball_26_mono.jpg,ball_26_mono.wav,ball,1,2.02514195,2.025145164,105.9607843,104.9607843,1.888888889,3,b?l,,1,1,ball,b,"Toys, Games & Hobbies",0.399302419,0.361738663
-27,balloon_27_mono.jpg,balloon_27_mono.wav,balloon,1,0.985426474,0.985276743,9.666666667,8.666666667,1.857142857,5,b?lun,,1,2,balloon,b,"Toys, Games & Hobbies",0.326067488,0.346650164
-35,baseball_35_cmpd.jpg,baseball_35_cmpd.wav,baseball,1,1.419129308,1.419210401,26.25490196,25.25490196,2.818181818,6,besb?l,,2,2,baseball,b,"Toys, Games & Hobbies",0.336009194,0.318768147
-37,basketball_37_cmpd.jpg,basketball_37_cmpd.wav,basketball,1,1.350054094,1.350095928,22.39215686,21.39215686,1.666666667,9,bæsk?tb?l,bæsk?tb?l,2,3,basketball,b,"Toys, Games & Hobbies",0.338428147,0.328617023
-41,beads_41_mono.jpg,beads_41_mono.wav,beads,0.9,0.656098202,0.656041804,4.529411765,3.529411765,4.538461538,3,bid,,1,1,beads,b,"Toys, Games & Hobbies",0.274964996,0.282710599
-50,binoculars_50_mono.jpg,binoculars_50_mono.wav,binoculars,1,0.409933123,0.40970112,2.568627451,1.568627451,2.25,11,b?n?kj?l?rz,ba?n?kj?l?rz,1,4,binoculars,b,"Toys, Games & Hobbies",0.265482776,0.261325142
-77,bubble_77_mono.jpg,bubble_77_mono.wav,bubble,1,0.954242509,0.954242509,9,8,1.769230769,5,b?b?l,,1,2,bubble,b,"Toys, Games & Hobbies",0.267630361,0.311519837
-92,camera_92_mono.jpg,camera_92_mono.wav,camera,1,1.763427994,1.763427994,58,57,2.846153846,5,kæmr?,kæm?r?,1,2,camera,k,"Toys, Games & Hobbies",0.382608528,0.295987998
-115,checkers_115_mono.jpg,checkers_115_mono.wav,checkers,0.85,0.459392488,0.459747159,2.882352941,1.882352941,2.2,5,t??k?r,,1,2,checkers,t?,"Toys, Games & Hobbies",0.249285918,0.256044931
-136,compass_136_mono.jpg,compass_136_mono.wav,compass,1,0.704150517,0.70404953,5.058823529,4.058823529,1.181818182,6,k?mp?s,k?mp?s,1,2,compass,k,"Toys, Games & Hobbies",0.254794444,0.2374923
-158,dart_158_mono.jpg,dart_158_mono.wav,dart,1,0.465382851,0.465616092,2.921568627,1.921568627,1.444444444,4,d?rt,,1,1,dart,d,"Toys, Games & Hobbies",0.274173568,0.306066067
-164,dice_164_mono.jpg,dice_164_mono.wav,dice,1,1.058805487,1.058842671,11.45098039,10.45098039,1.727272727,3,da?s,da?,1,1,dice,d,"Toys, Games & Hobbies",0.270805997,0.273296789
-169,doll_169_mono.jpg,doll_169_mono.wav,doll,1,1.410945859,1.411025189,25.76470588,24.76470588,3.5,3,d?l,d?l,1,1,doll,d,"Toys, Games & Hobbies",0.540453439,0.296069511
-171,dominoes_171_mono.jpg,dominoes_171_mono.wav,dominoes,1,0.274157849,0.274701057,1.882352941,0.882352941,2.111111111,6,d?m?no,,1,3,dominoes,d,"Toys, Games & Hobbies",0.33817696,0.288272319
-215,football_215_cmpd.jpg,football_215_cmpd.wav,football,1,1.585799009,1.585792379,38.52941176,37.52941176,4.142857143,6,f?tb?l,,2,2,football,f,"Toys, Games & Hobbies",0.34075764,0.306050956
-238,golfball_238_cmpd.jpg,golfball_238_cmpd.wav,golfball,1,0,#VALUE!,#VALUE!,-,2,7,??lfb?l,"??lfb?l, ??fb?l, ??fb?l",2,2,golfball,?,"Toys, Games & Hobbies",0.318222016,0.332057565
-636,hopscotch_636_cmpd.jpg,hopscotch_636_cmpd.wav,hopscotch,0.9,0.343231295,0.111973759,1.294117647,0.294117647,2.333333333,7,h?psk?t?,,1,2,hopscotch,h,"Toys, Games & Hobbies",0.327630036,0.323210295
-284,jumprope_284_cmpd.jpg,jumprope_284_cmpd.wav,jumprope,0.9,0,#VALUE!,#VALUE!,-,2,7,d??mprop,,2,2,jump rope,d?,"Toys, Games & Hobbies",0.343388823,0.356166195
-291,kite_291_mono.jpg,kite_291_mono.wav,kite,1,0.517195898,0.517739106,3.294117647,2.294117647,1.857142857,3,ka?t,,1,1,kite,k,"Toys, Games & Hobbies",0.199386535,0.295003323
-318,magnifyingglass_318_cmpd.jpg,magnifyingglass_318_cmpd.wav,magnifyingglass,1,0,#VALUE!,#VALUE!,-,4.5,13,mæ?n?fa????læs,,2,5,magnifying glass,m,"Toys, Games & Hobbies",0.187407341,0.224824239
-322,marbles_322_mono.jpg,marbles_322_mono.wav,marbles,1,0.606381365,0.606297044,4.039215686,3.039215686,4.636363636,6,m?rb?l,,1,2,marbles,m,"Toys, Games & Hobbies",0.362898254,0.300984989
-330,medal_330_mono.jpg,medal_330_mono.wav,medal,0.95,1.099335278,1.099287853,12.56862745,11.56862745,2.777777778,5,m?d?l,,1,2,medal,m,"Toys, Games & Hobbies",0.230315924,0.255341532
-332,microphone_332_mono.jpg,microphone_332_mono.wav,microphone,0.95,0.744292983,0.744216259,5.549019608,4.549019608,1.75,8,ma?kr?fon,,1,3,microphone,m,"Toys, Games & Hobbies",0.254973696,0.281328103
-354,needle_354_mono.jpg,needle_354_mono.wav,needle,0.9,1.111262514,1.111315238,12.92156863,11.92156863,1.333333333,5,nid?l,,1,2,needle,n,"Toys, Games & Hobbies",0.236909708,0.278528097
-355,net_355_mono.jpg,net_355_mono.wav,net,0.9,1.218797998,1.218772271,16.54901961,15.54901961,1.166666667,3,n?t,,1,1,net,n,"Toys, Games & Hobbies",0.274567219,0.265960494
-421,record_421_mono.jpg,record_421_mono.wav,record,0.85,1.93746774,1.937458889,86.58823529,85.58823529,2.285714286,6,r?k?rd,,1,2,record,r,"Toys, Games & Hobbies",0.219461919,0.230714677
-430,robot_430_mono.jpg,robot_430_mono.wav,robot,1,1.11991541,1.119799097,13.17647059,12.17647059,3.909090909,5,rob?t,,1,2,robot,r,"Toys, Games & Hobbies",0.399108804,0.265631397
-447,sandcastle_447_cmpd.jpg,sandcastle_447_cmpd.wav,sandcastle,1,0.033423755,0.032792513,1.078431373,0.078431373,3.666666667,9,sændkæs?l,sænkæs?l,2,3,sandcastle,s,"Toys, Games & Hobbies",0.24497454,0.202663799
-458,sewingmachine_458_cmpd.jpg,sewingmachine_458_cmpd.wav,sewingmachine,0.85,0,#VALUE!,#VALUE!,-,3.428571429,9,so??m??in,,2,4,sewing machine,s,"Toys, Games & Hobbies",0.318423398,0.294727998
-468,skateboard_468_cmpd.jpg,skateboard_468_cmpd.wav,skateboard,1,0.426511261,0.425968732,2.666666667,1.666666667,1.444444444,8,sketb?rd,,2,2,skateboard,s,"Toys, Games & Hobbies",0.393108949,0.309415652
-470,skis_470_mono.jpg,skis_470_mono.wav,skis,0.8,0.371067862,0.37161107,2.352941176,1.352941176,3.714285714,3,ski,,1,1,skis,s,"Toys, Games & Hobbies",0.293412448,0.243690791
-473,sled_473_mono.jpg,sled_473_mono.wav,sled,0.8,0.593286067,0.59345982,3.921568627,2.921568627,3,4,sl?d,,1,1,sled,s,"Toys, Games & Hobbies",0.329890721,0.288435228
-475,slide_475_mono.jpg,slide_475_mono.wav,slide,1,1.274619619,1.274701057,18.82352941,17.82352941,3.5,4,sla?d,,1,1,slide,s,"Toys, Games & Hobbies",0.308767003,0.31437243
-476,slingshot_476_cmpd.jpg,slingshot_476_cmpd.wav,slingshot,1,0.378397901,0.378789655,2.392156863,1.392156863,1.153846154,7,sl????t,,2,2,slingshot,s,"Toys, Games & Hobbies",0.330825433,0.304565616
-854,sparkler_854_mono.jpg,sparkler_854_mono.wav,sparkler,0.95,0.024823584,0.024823584,1.058823529,0.058823529,3.153846154,8,sp?rkl?r,,1,2,sparkler,s,"Toys, Games & Hobbies",0.372434503,0.300090678
-857,swing_857_mono.jpg,swing_857_mono.wav,swing,1,1.431048258,1.431048258,26.98039216,25.98039216,3.181818182,4,sw??,,1,1,swing,s,"Toys, Games & Hobbies",0.367065585,0.329485299
-526,target_526_mono.jpg,target_526_mono.wav,target,0.8,1.590618948,1.590627691,38.96078431,37.96078431,3.615384615,6,t?r??t,,1,2,target,t,"Toys, Games & Hobbies",0.252504877,0.20826831
-530,telescope_530_mono.jpg,telescope_530_mono.wav,telescope,0.95,0.595496222,0.595625881,3.941176471,2.941176471,3.266666667,8,t?l?skop,,1,3,telescope,t,"Toys, Games & Hobbies",0.2414127,0.245413094
-533,tennisball_533_cmpd.jpg,tennisball_533_cmpd.wav,tennisball,1,0,#VALUE!,#VALUE!,-,2.777777778,8,t?n?sb?l,,2,3,tennis ball,t,"Toys, Games & Hobbies",0.153254424,0.238707544
-537,thimble_537_mono.jpg,thimble_537_mono.wav,thimble,0.85,0.103803721,0.105343181,1.274509804,0.274509804,2.333333333,6,??mb?l,,1,2,thimble,?,"Toys, Games & Hobbies",0.347521304,0.311658592
-540,tictactoe_540_cmpd.jpg,tictactoe_540_cmpd.wav,tictactoe,0.95,0,#VALUE!,#VALUE!,-,1,8,t?ktækto,,3,3,tic-tac-toe,t,"Toys, Games & Hobbies",0.26698185,0.312546398
-555,top_555_mono.jpg,top_555_mono.wav,top,0.75,2.128496199,2.128500633,134.4313725,133.4313725,1.4,3,t?p,,1,1,top,t,"Toys, Games & Hobbies",0.263120642,0.237098817
-562,trophy_562_mono.jpg,trophy_562_mono.wav,trophy,0.95,0.931966115,0.931916313,8.549019608,7.549019608,2.6,5,trofi,,1,2,trophy,t,"Toys, Games & Hobbies",0.232587923,0.252454447
-600,whistle_600_mono.jpg,whistle_600_mono.wav,whistle,1,1.216165902,1.216191785,16.45098039,15.45098039,2,5,w?s?l,,1,2,whistle,w,"Toys, Games & Hobbies",0.235529502,0.287611575
-612,yarn_612_mono.jpg,yarn_612_mono.wav,yarn,0.8,0.413299764,0.413003755,2.588235294,1.588235294,3.307692308,4,j?rn,,1,1,yarn,j,"Toys, Games & Hobbies",0.399973682,0.284043759
-613,yoyo_613_mono.jpg,yoyo_613_mono.wav,yoyo,1,0.103803721,0.105343181,1.274509804,0.274509804,2,4,jojo,,1,2,yo-yo,j,"Toys, Games & Hobbies",0.461635132,0.337402242
+26,ball_26_mono.jpg,ball_26_mono.wav,ball,1,2.02514195,2.025145164,105.9607843,104.9607843,1.888888889,3,b?l,,1,1,ball,b,Toys Games & Hobbies,0.399302419,0.361738663
+27,balloon_27_mono.jpg,balloon_27_mono.wav,balloon,1,0.985426474,0.985276743,9.666666667,8.666666667,1.857142857,5,b?lun,,1,2,balloon,b,Toys Games & Hobbies,0.326067488,0.346650164
+35,baseball_35_cmpd.jpg,baseball_35_cmpd.wav,baseball,1,1.419129308,1.419210401,26.25490196,25.25490196,2.818181818,6,besb?l,,2,2,baseball,b,Toys Games & Hobbies,0.336009194,0.318768147
+37,basketball_37_cmpd.jpg,basketball_37_cmpd.wav,basketball,1,1.350054094,1.350095928,22.39215686,21.39215686,1.666666667,9,bæsk?tb?l,bæsk?tb?l,2,3,basketball,b,Toys Games & Hobbies,0.338428147,0.328617023
+41,beads_41_mono.jpg,beads_41_mono.wav,beads,0.9,0.656098202,0.656041804,4.529411765,3.529411765,4.538461538,3,bid,,1,1,beads,b,Toys Games & Hobbies,0.274964996,0.282710599
+50,binoculars_50_mono.jpg,binoculars_50_mono.wav,binoculars,1,0.409933123,0.40970112,2.568627451,1.568627451,2.25,11,b?n?kj?l?rz,ba?n?kj?l?rz,1,4,binoculars,b,Toys Games & Hobbies,0.265482776,0.261325142
+77,bubble_77_mono.jpg,bubble_77_mono.wav,bubble,1,0.954242509,0.954242509,9,8,1.769230769,5,b?b?l,,1,2,bubble,b,Toys Games & Hobbies,0.267630361,0.311519837
+92,camera_92_mono.jpg,camera_92_mono.wav,camera,1,1.763427994,1.763427994,58,57,2.846153846,5,kæmr?,kæm?r?,1,2,camera,k,Toys Games & Hobbies,0.382608528,0.295987998
+115,checkers_115_mono.jpg,checkers_115_mono.wav,checkers,0.85,0.459392488,0.459747159,2.882352941,1.882352941,2.2,5,t??k?r,,1,2,checkers,t?,Toys Games & Hobbies,0.249285918,0.256044931
+136,compass_136_mono.jpg,compass_136_mono.wav,compass,1,0.704150517,0.70404953,5.058823529,4.058823529,1.181818182,6,k?mp?s,k?mp?s,1,2,compass,k,Toys Games & Hobbies,0.254794444,0.2374923
+158,dart_158_mono.jpg,dart_158_mono.wav,dart,1,0.465382851,0.465616092,2.921568627,1.921568627,1.444444444,4,d?rt,,1,1,dart,d,Toys Games & Hobbies,0.274173568,0.306066067
+164,dice_164_mono.jpg,dice_164_mono.wav,dice,1,1.058805487,1.058842671,11.45098039,10.45098039,1.727272727,3,da?s,da?,1,1,dice,d,Toys Games & Hobbies,0.270805997,0.273296789
+169,doll_169_mono.jpg,doll_169_mono.wav,doll,1,1.410945859,1.411025189,25.76470588,24.76470588,3.5,3,d?l,d?l,1,1,doll,d,Toys Games & Hobbies,0.540453439,0.296069511
+171,dominoes_171_mono.jpg,dominoes_171_mono.wav,dominoes,1,0.274157849,0.274701057,1.882352941,0.882352941,2.111111111,6,d?m?no,,1,3,dominoes,d,Toys Games & Hobbies,0.33817696,0.288272319
+215,football_215_cmpd.jpg,football_215_cmpd.wav,football,1,1.585799009,1.585792379,38.52941176,37.52941176,4.142857143,6,f?tb?l,,2,2,football,f,Toys Games & Hobbies,0.34075764,0.306050956
+238,golfball_238_cmpd.jpg,golfball_238_cmpd.wav,golfball,1,0,#VALUE!,#VALUE!,-,2,7,??lfb?l,"??lfb?l, ??fb?l, ??fb?l",2,2,golfball,?,Toys Games & Hobbies,0.318222016,0.332057565
+636,hopscotch_636_cmpd.jpg,hopscotch_636_cmpd.wav,hopscotch,0.9,0.343231295,0.111973759,1.294117647,0.294117647,2.333333333,7,h?psk?t?,,1,2,hopscotch,h,Toys Games & Hobbies,0.327630036,0.323210295
+284,jumprope_284_cmpd.jpg,jumprope_284_cmpd.wav,jumprope,0.9,0,#VALUE!,#VALUE!,-,2,7,d??mprop,,2,2,jump rope,d?,Toys Games & Hobbies,0.343388823,0.356166195
+291,kite_291_mono.jpg,kite_291_mono.wav,kite,1,0.517195898,0.517739106,3.294117647,2.294117647,1.857142857,3,ka?t,,1,1,kite,k,Toys Games & Hobbies,0.199386535,0.295003323
+318,magnifyingglass_318_cmpd.jpg,magnifyingglass_318_cmpd.wav,magnifyingglass,1,0,#VALUE!,#VALUE!,-,4.5,13,mæ?n?fa????læs,,2,5,magnifying glass,m,Toys Games & Hobbies,0.187407341,0.224824239
+322,marbles_322_mono.jpg,marbles_322_mono.wav,marbles,1,0.606381365,0.606297044,4.039215686,3.039215686,4.636363636,6,m?rb?l,,1,2,marbles,m,Toys Games & Hobbies,0.362898254,0.300984989
+330,medal_330_mono.jpg,medal_330_mono.wav,medal,0.95,1.099335278,1.099287853,12.56862745,11.56862745,2.777777778,5,m?d?l,,1,2,medal,m,Toys Games & Hobbies,0.230315924,0.255341532
+332,microphone_332_mono.jpg,microphone_332_mono.wav,microphone,0.95,0.744292983,0.744216259,5.549019608,4.549019608,1.75,8,ma?kr?fon,,1,3,microphone,m,Toys Games & Hobbies,0.254973696,0.281328103
+354,needle_354_mono.jpg,needle_354_mono.wav,needle,0.9,1.111262514,1.111315238,12.92156863,11.92156863,1.333333333,5,nid?l,,1,2,needle,n,Toys Games & Hobbies,0.236909708,0.278528097
+355,net_355_mono.jpg,net_355_mono.wav,net,0.9,1.218797998,1.218772271,16.54901961,15.54901961,1.166666667,3,n?t,,1,1,net,n,Toys Games & Hobbies,0.274567219,0.265960494
+421,record_421_mono.jpg,record_421_mono.wav,record,0.85,1.93746774,1.937458889,86.58823529,85.58823529,2.285714286,6,r?k?rd,,1,2,record,r,Toys Games & Hobbies,0.219461919,0.230714677
+430,robot_430_mono.jpg,robot_430_mono.wav,robot,1,1.11991541,1.119799097,13.17647059,12.17647059,3.909090909,5,rob?t,,1,2,robot,r,Toys Games & Hobbies,0.399108804,0.265631397
+447,sandcastle_447_cmpd.jpg,sandcastle_447_cmpd.wav,sandcastle,1,0.033423755,0.032792513,1.078431373,0.078431373,3.666666667,9,sændkæs?l,sænkæs?l,2,3,sandcastle,s,Toys Games & Hobbies,0.24497454,0.202663799
+458,sewingmachine_458_cmpd.jpg,sewingmachine_458_cmpd.wav,sewingmachine,0.85,0,#VALUE!,#VALUE!,-,3.428571429,9,so??m??in,,2,4,sewing machine,s,Toys Games & Hobbies,0.318423398,0.294727998
+468,skateboard_468_cmpd.jpg,skateboard_468_cmpd.wav,skateboard,1,0.426511261,0.425968732,2.666666667,1.666666667,1.444444444,8,sketb?rd,,2,2,skateboard,s,Toys Games & Hobbies,0.393108949,0.309415652
+470,skis_470_mono.jpg,skis_470_mono.wav,skis,0.8,0.371067862,0.37161107,2.352941176,1.352941176,3.714285714,3,ski,,1,1,skis,s,Toys Games & Hobbies,0.293412448,0.243690791
+473,sled_473_mono.jpg,sled_473_mono.wav,sled,0.8,0.593286067,0.59345982,3.921568627,2.921568627,3,4,sl?d,,1,1,sled,s,Toys Games & Hobbies,0.329890721,0.288435228
+475,slide_475_mono.jpg,slide_475_mono.wav,slide,1,1.274619619,1.274701057,18.82352941,17.82352941,3.5,4,sla?d,,1,1,slide,s,Toys Games & Hobbies,0.308767003,0.31437243
+476,slingshot_476_cmpd.jpg,slingshot_476_cmpd.wav,slingshot,1,0.378397901,0.378789655,2.392156863,1.392156863,1.153846154,7,sl????t,,2,2,slingshot,s,Toys Games & Hobbies,0.330825433,0.304565616
+854,sparkler_854_mono.jpg,sparkler_854_mono.wav,sparkler,0.95,0.024823584,0.024823584,1.058823529,0.058823529,3.153846154,8,sp?rkl?r,,1,2,sparkler,s,Toys Games & Hobbies,0.372434503,0.300090678
+857,swing_857_mono.jpg,swing_857_mono.wav,swing,1,1.431048258,1.431048258,26.98039216,25.98039216,3.181818182,4,sw??,,1,1,swing,s,Toys Games & Hobbies,0.367065585,0.329485299
+526,target_526_mono.jpg,target_526_mono.wav,target,0.8,1.590618948,1.590627691,38.96078431,37.96078431,3.615384615,6,t?r??t,,1,2,target,t,Toys Games & Hobbies,0.252504877,0.20826831
+530,telescope_530_mono.jpg,telescope_530_mono.wav,telescope,0.95,0.595496222,0.595625881,3.941176471,2.941176471,3.266666667,8,t?l?skop,,1,3,telescope,t,Toys Games & Hobbies,0.2414127,0.245413094
+533,tennisball_533_cmpd.jpg,tennisball_533_cmpd.wav,tennisball,1,0,#VALUE!,#VALUE!,-,2.777777778,8,t?n?sb?l,,2,3,tennis ball,t,Toys Games & Hobbies,0.153254424,0.238707544
+537,thimble_537_mono.jpg,thimble_537_mono.wav,thimble,0.85,0.103803721,0.105343181,1.274509804,0.274509804,2.333333333,6,??mb?l,,1,2,thimble,?,Toys Games & Hobbies,0.347521304,0.311658592
+540,tictactoe_540_cmpd.jpg,tictactoe_540_cmpd.wav,tictactoe,0.95,0,#VALUE!,#VALUE!,-,1,8,t?ktækto,,3,3,tic-tac-toe,t,Toys Games & Hobbies,0.26698185,0.312546398
+555,top_555_mono.jpg,top_555_mono.wav,top,0.75,2.128496199,2.128500633,134.4313725,133.4313725,1.4,3,t?p,,1,1,top,t,Toys Games & Hobbies,0.263120642,0.237098817
+562,trophy_562_mono.jpg,trophy_562_mono.wav,trophy,0.95,0.931966115,0.931916313,8.549019608,7.549019608,2.6,5,trofi,,1,2,trophy,t,Toys Games & Hobbies,0.232587923,0.252454447
+600,whistle_600_mono.jpg,whistle_600_mono.wav,whistle,1,1.216165902,1.216191785,16.45098039,15.45098039,2,5,w?s?l,,1,2,whistle,w,Toys Games & Hobbies,0.235529502,0.287611575
+612,yarn_612_mono.jpg,yarn_612_mono.wav,yarn,0.8,0.413299764,0.413003755,2.588235294,1.588235294,3.307692308,4,j?rn,,1,1,yarn,j,Toys Games & Hobbies,0.399973682,0.284043759
+613,yoyo_613_mono.jpg,yoyo_613_mono.wav,yoyo,1,0.103803721,0.105343181,1.274509804,0.274509804,2,4,jojo,,1,2,yo-yo,j,Toys Games & Hobbies,0.461635132,0.337402242
 21,baby_21_mono.jpg,baby_21_mono.wav,baby,1,2.707885138,2.707887307,510.372549,509.372549,3.2,4,bebi,,1,2,baby,b,Types of People,0.237361175,0.327574544
 65,boy_65_mono.jpg,boy_65_mono.wav,boy,0.85,2.724947278,2.724950165,530.8235294,529.8235294,3.75,2,b??,,1,1,boy,b,Types of People,0.283545942,0.286552765
 71,bride_71_mono.jpg,bride_71_mono.wav,bride,1,1.401745082,1.401670792,25.21568627,24.21568627,3.666666667,4,bra?d,,1,1,bride,b,Types of People,0.225217321,0.310461566

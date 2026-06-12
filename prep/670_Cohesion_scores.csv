@@ -1,671 +1,671 @@
-category,item,ItemCohesionScore,LabelCohesionScore
-Accessories,apron,0.333217903,0.199736666
-Accessories,backpack,0.355084718,0.283939965
-Accessories,bandana,0.416345425,0.335529662
-Accessories,belt,0.371042877,0.342733785
-Accessories,bib,0.383288375,0.244414954
-Accessories,bracelet,0.404897596,0.409139891
-Accessories,cane,0.327935363,0.243258037
-Accessories,cast,0.310370905,0.307898395
-Accessories,collar,0.419545363,0.37980795
-Accessories,crutches,0.288701155,0.165926659
-Accessories,diaper,0.314813643,0.078939115
-Accessories,earmuffs,0.389531607,0.325909296
-Accessories,earrings,0.37142772,0.343639266
-Accessories,glasses,0.358855733,0.303662262
-Accessories,glove,0.340153019,0.235256828
-Accessories,handcuffs,0.362505246,0.288857709
-Accessories,hat,0.380109109,0.323188865
-Accessories,helmet,0.352000502,0.165776603
-Accessories,necklace,0.412098273,0.35988983
-Accessories,pipe,0.335403711,0.348962846
-Accessories,purse,0.409216094,0.415908158
-Accessories,ring,0.378270161,0.308833129
-Accessories,scarf,0.411237498,0.284892417
-Accessories,sunglasses,0.362846276,0.247087218
-Accessories,suspenders,0.374586705,0.393151422
-Accessories,tiara,0.325202019,0.289126383
-Accessories,tie,0.370563799,0.356374894
-Accessories,umbrella,0.3308598,0.226859702
-Accessories,walker,0.192675044,0.066832346
-Accessories,wallet,0.354897754,0.319707082
-Accessories,watch,0.290698349,0.300788375
-Accessories,wig,0.3641381,0.147084699
-Bathroom Items and Toiletries,bathroom,0.337969236,0.433087761
-Bathroom Items and Toiletries,brush,0.399370561,0.08536767
-Bathroom Items and Toiletries,comb,0.401934859,0.057925056
-Bathroom Items and Toiletries,faucet,0.369938462,0.155977474
-Bathroom Items and Toiletries,lipstick,0.298277841,0.141377919
-Bathroom Items and Toiletries,mascara,0.322972976,0.137535667
-Bathroom Items and Toiletries,nailclipper,0.331755183,0
-Bathroom Items and Toiletries,nailpolish,0.32124862,0.133235609
-Bathroom Items and Toiletries,plunger,0.369131473,0.197905753
-Bathroom Items and Toiletries,razor,0.296959195,0.056472133
-Bathroom Items and Toiletries,shavingcream,0.279472731,0
-Bathroom Items and Toiletries,shower,0.330623779,0.151117326
-Bathroom Items and Toiletries,sink,0.399470481,0.182132616
-Bathroom Items and Toiletries,tile,0.322891763,0.122065601
-Bathroom Items and Toiletries,toilet,0.338399506,0.370694434
-Bathroom Items and Toiletries,toiletpaper,0.420276095,0.278986403
-Bathroom Items and Toiletries,toothbrush,0.427778288,0.214743761
-Bathroom Items and Toiletries,toothpaste,0.345795221,0.088015504
-Bathroom Items and Toiletries,towel,0.309656906,0.166670249
-Bathroom Items and Toiletries,tweezers,0.338531429,0.007435107
-Birds,chick,0.38353079,0.465099888
-Birds,dove,0.336658049,0.340921303
-Birds,duck,0.346496992,0.388757585
-Birds,flamingo,0.414845713,0.414114319
-Birds,hummingbird,0.448875308,0.524407518
-Birds,ostrich,0.418856638,0.446195745
-Birds,owl,0.39441848,0.48601569
-Birds,parrot,0.420759925,0.54426293
-Birds,peacock,0.448205497,0.455361087
-Birds,pelican,0.421499899,0.491554952
-Birds,penguin,0.404372264,0.484035328
-Birds,pigeons,0.431009171,0.66845377
-Birds,rooster,0.389549398,0.441202921
-Birds,seagull,0.44683891,0.498849615
-Birds,swan,0.414391776,0.368677893
-Birds,turkey,0.317286412,0.423554464
-Birds,vulture,0.388880889,0.454981326
-Birds,woodpecker,0.439992919,0.520875284
-Body Parts,antler,0.314148062,0.375946282
-Body Parts,arm,0.407665678,0.454391533
-Body Parts,beak,0.39567702,0.341781162
-Body Parts,beard,0.336695593,0.234853764
-Body Parts,blackeye,0.328952684,0.255514455
-Body Parts,bone,0.38258575,0.380720715
-Body Parts,brain,0.354657552,0.521856049
-Body Parts,bruise,0.344148671,0.306559749
-Body Parts,chest,0.419793649,0.479661482
-Body Parts,chin,0.399078817,0.328008339
-Body Parts,ear,0.426083271,0.447523069
-Body Parts,elbow,0.362348139,0.379511078
-Body Parts,eye,0.417904727,0.395089475
-Body Parts,feather,0.353798896,0.282702056
-Body Parts,fin,0.270929496,0.218479371
-Body Parts,finger,0.415308024,0.44440525
-Body Parts,fist,0.395710874,0.397089411
-Body Parts,foot,0.437202108,0.460354803
-Body Parts,hair,0.400367614,0.474622324
-Body Parts,hand,0.388359016,0.469551336
-Body Parts,hoof,0.31787141,0.29702338
-Body Parts,horn,0.34033369,0.343449719
-Body Parts,lips,0.40141094,0.497732614
-Body Parts,lungs,0.337354738,0.446243153
-Body Parts,mane,0.295417649,0.250862534
-Body Parts,mustache,0.323497533,0.290609443
-Body Parts,neck,0.42305591,0.452592841
-Body Parts,nose,0.372061463,0.411746168
-Body Parts,skull,0.37247013,0.445575495
-Body Parts,spot,0.31516669,0.213213457
-Body Parts,stomach,0.376468848,0.445385558
-Body Parts,tail,0.369765502,0.306161214
-Body Parts,tattoo,0.339249185,0.33618048
-Body Parts,tear,0.332693959,0.309086191
-Body Parts,thumb,0.406304407,0.338418154
-Body Parts,toes,0.369847549,0.519663286
-Body Parts,tongue,0.397485736,0.390376691
-Body Parts,tooth,0.37160524,0.260357123
-Body Parts,trunk,0.377691068,0.451304411
-Body Parts,wing,0.358268596,0.329218336
-Body Parts,wrist,0.416519377,0.36716463
-Clothing,armor,0.351707565,0.419456041
-Clothing,boot,0.398221446,0.360686589
-Clothing,button,0.296684595,0.264866885
-Clothing,dress,0.480114297,0.646933143
-Clothing,heel,0.361279048,0.243095798
-Clothing,jacket,0.485364101,0.569385813
-Clothing,jeans,0.413226012,0.56926663
-Clothing,pants,0.450554569,0.564473306
-Clothing,pocket,0.388061583,0.346926566
-Clothing,raincoat,0.380565726,0.465374734
-Clothing,robe,0.476721537,0.618739755
-Clothing,sandals,0.342532974,0.375483465
-Clothing,shirt,0.430568586,0.560699848
-Clothing,shoe,0.45409726,0.488600666
-Clothing,shoelace,0.417374366,0.372840846
-Clothing,sleeve,0.427053776,0.406486586
-Clothing,slippers,0.361728777,0.331407872
-Clothing,sock,0.4040955,0.322497147
-Clothing,suit,0.407778207,0.526904929
-Clothing,sweater,0.450859593,0.471503928
-Clothing,underwear,0.426149638,0.630167562
-Clothing,vest,0.43826934,0.516202315
-Clothing,zipper,0.406574104,0.356728022
-Food,bacon,0.366508218,0.374334326
-Food,bagel,0.351557127,0.324814903
-Food,biscuits,0.409967304,0.46608634
-Food,bread,0.410174197,0.537833873
-Food,breakfast,0.352802703,0.511383013
-Food,butter,0.375154664,0.367741394
-Food,cake,0.411422993,0.482312427
-Food,candy,0.379738388,0.46250197
-Food,champagne,0.275040445,0.215088227
-Food,cheese,0.390683156,0.483522427
-Food,chocolate,0.370037616,0.419903829
-Food,cookies,0.371073163,0.418453201
-Food,cottoncandy,0.32791789,0.43824291
-Food,crackers,0.3746407,0.397289362
-Food,croissant,0.296177374,0.251060123
-Food,cupcake,0.358380632,0.317309655
-Food,dough,0.356925968,0.448883971
-Food,egg,0.367329167,0.42908179
-Food,eggrolls,0.398152447,0.48168187
-Food,honey,0.358800679,0.325380697
-Food,hotdog,0.307608034,0.281053828
-Food,ketchup,0.335905047,0.274139356
-Food,mustard,0.335632648,0.256404797
-Food,pancakes,0.37137722,0.379637524
-Food,peanuts,0.368611545,0.402362069
-Food,pickles,0.306694554,0.279928972
-Food,pie,0.373085988,0.455735377
-Food,pizza,0.376859007,0.534369415
-Food,popcorn,0.335441724,0.297392815
-Food,pretzel,0.374139483,0.342324001
-Food,rice,0.341449459,0.458331697
-Food,salad,0.356398399,0.432314293
-Food,sandwich,0.383137284,0.444885749
-Food,shrimp,0.347140605,0.37910333
-Food,soup,0.369133924,0.454629478
-Food,spaghetti,0.356842247,0.365337352
-Food,steak,0.366368458,0.468536095
-Food,sugar,0.344364053,0.359683725
-Food,sushi,0.334174266,0.417533799
-Food,syrup,0.362060483,0.299548073
-Food,teabag,0.28641839,0.287233076
-Food,waffles,0.352602134,0.343859538
-Food,wine,0.308031595,0.412160236
-Fruits & Vegetables,apple,0.337262654,0.35220418
-Fruits & Vegetables,asparagus,0.330983669,0.342097949
-Fruits & Vegetables,avocado,0.310234242,0.330581762
-Fruits & Vegetables,banana,0.406597884,0.353066632
-Fruits & Vegetables,blueberry,0.363189607,0.301041499
-Fruits & Vegetables,broccoli,0.376768242,0.489085424
-Fruits & Vegetables,carrot,0.364240024,0.49500812
-Fruits & Vegetables,cauliflower,0.340956386,0.4071183
-Fruits & Vegetables,celery,0.353127094,0.41790539
-Fruits & Vegetables,cherries,0.333469594,0.373402435
-Fruits & Vegetables,coconut,0.401146726,0.315095953
-Fruits & Vegetables,corn,0.346908306,0.399451881
-Fruits & Vegetables,cucumber,0.341811306,0.474089185
-Fruits & Vegetables,eggplant,0.341330184,0.446231396
-Fruits & Vegetables,garlic,0.320530991,0.30549691
-Fruits & Vegetables,ginger,0.307046736,0.156408173
-Fruits & Vegetables,grapes,0.365197083,0.487280292
-Fruits & Vegetables,kiwi,0.347398714,0.365538208
-Fruits & Vegetables,lemon,0.390735328,0.313433491
-Fruits & Vegetables,lime,0.365347697,0.289416322
-Fruits & Vegetables,onion,0.351782388,0.311518664
-Fruits & Vegetables,orange,0.373903369,0.331614293
-Fruits & Vegetables,pear,0.336354464,0.358024468
-Fruits & Vegetables,peas,0.368972692,0.392750387
-Fruits & Vegetables,pineapple,0.381455576,0.370696238
-Fruits & Vegetables,plum,0.346595694,0.359569625
-Fruits & Vegetables,potato,0.345966454,0.305509212
-Fruits & Vegetables,pumpkin,0.373644146,0.313334736
-Fruits & Vegetables,raspberry,0.382013637,0.26309085
-Fruits & Vegetables,strawberry,0.376959423,0.313741677
-Fruits & Vegetables,tomato,0.354954259,0.401086431
-Fruits & Vegetables,watermelon,0.40643767,0.496911264
-Furnishings & Decor,ashtray,0.293733855,0.210671975
-Furnishings & Decor,barrel,0.315348568,0.18103321
-Furnishings & Decor,bed,0.367613242,0.293945537
-Furnishings & Decor,bench,0.351850002,0.258382309
-Furnishings & Decor,calendar,0.26053057,0.23081992
-Furnishings & Decor,candle,0.335104523,0.219665957
-Furnishings & Decor,chair,0.354045804,0.303971957
-Furnishings & Decor,chandelier,0.336889161,0.400930966
-Furnishings & Decor,clock,0.319793456,0.161243529
-Furnishings & Decor,crib,0.352390444,0.297757638
-Furnishings & Decor,curtains,0.301596248,0.327621821
-Furnishings & Decor,desk,0.359689395,0.365599544
-Furnishings & Decor,discoball,0.259851311,0.137083691
-Furnishings & Decor,dresser,0.367082027,0.411604443
-Furnishings & Decor,fan,0.247852357,0.130057439
-Furnishings & Decor,hammock,0.265955701,0.179330267
-Furnishings & Decor,highchair,0.312760248,0.312268039
-Furnishings & Decor,jukebox,0.266718208,0.194480903
-Furnishings & Decor,lamp,0.36023214,0.300276864
-Furnishings & Decor,magazines,0.26156774,0.229321201
-Furnishings & Decor,mattress,0.347388393,0.259489918
-Furnishings & Decor,mirror,0.247884853,0.093806569
-Furnishings & Decor,piggybank,0.329019174,0.1281078
-Furnishings & Decor,pillow,0.341684061,0.276711666
-Furnishings & Decor,radio,0.294048823,0.158684321
-Furnishings & Decor,recordplayer,0.271137757,0.092916493
-Furnishings & Decor,rockingchair,0.283994874,0.123251136
-Furnishings & Decor,rug,0.339267052,0.366232849
-Furnishings & Decor,safe,0.231228506,0.173053733
-Furnishings & Decor,speaker,0.324726823,0.213195963
-Furnishings & Decor,stocking,0.296209542,0.229787224
-Furnishings & Decor,stool,0.353609964,0.264713968
-Furnishings & Decor,table,0.352161646,0.351968436
-Furnishings & Decor,tray,0.333499499,0.239185965
-Furnishings & Decor,treadmill,0.261416769,0.13397228
-Furnishings & Decor,vase,0.307305076,0.247408086
-Furnishings & Decor,wreath,0.30189224,0.395839736
-Kitchen Items,bag,0.373386191,0.310975962
-Kitchen Items,basket,0.334630292,0.286632463
-Kitchen Items,blender,0.310596513,0.340554612
-Kitchen Items,bottle,0.374954377,0.300745761
-Kitchen Items,bowl,0.372516584,0.266056538
-Kitchen Items,cabinet,0.334649314,0.462716031
-Kitchen Items,can,0.155419092,0.104037053
-Kitchen Items,canopener,0.266516018,0.187182146
-Kitchen Items,chopsticks,0.325949174,0.326197897
-Kitchen Items,cooler,0.28226436,0.213684426
-Kitchen Items,cork,0.252899507,0.162310646
-Kitchen Items,cup,0.379537769,0.26777405
-Kitchen Items,drawer,0.348749276,0.352906365
-Kitchen Items,flask,0.297707328,0.185692068
-Kitchen Items,fork,0.35754923,0.220984097
-Kitchen Items,grill,0.337482057,0.362422927
-Kitchen Items,jar,0.360594576,0.242586936
-Kitchen Items,kitchen,0.304158216,0.78169253
-Kitchen Items,knife,0.39507018,0.367143299
-Kitchen Items,ladle,0.421711197,0.393058709
-Kitchen Items,measuringcup,0.194480252,0.169206945
-Kitchen Items,nutcracker,0.299635162,0.196586743
-Kitchen Items,plate,0.377894165,0.355654423
-Kitchen Items,refrigerator,0.313504078,0.353620469
-Kitchen Items,rollingpin,0.339673235,0.176346662
-Kitchen Items,spatula,0.351067083,0.389740937
-Kitchen Items,spoon,0.396460008,0.280008067
-Kitchen Items,straw,0.343070783,0.163324347
-Kitchen Items,teapot,0.317876393,0.219933409
-Kitchen Items,toaster,0.307470664,0.331133512
-Kitchen Items,toothpick,0.392316773,0.26916111
-Mammals,bat,0.375719743,0.373880375
-Mammals,bear,0.38116945,0.246434526
-Mammals,bull,0.336185688,0.303029247
-Mammals,camel,0.345357086,0.352502753
-Mammals,cat,0.400793929,0.333890075
-Mammals,cow,0.400489171,0.439352031
-Mammals,deer,0.388624987,0.392196438
-Mammals,dog,0.39957917,0.339630247
-Mammals,dolphin,0.311972764,0.419257435
-Mammals,elephant,0.41876854,0.382987216
-Mammals,fox,0.317089127,0.283539634
-Mammals,giraffe,0.342773651,0.371320918
-Mammals,goat,0.376899969,0.346350507
-Mammals,guineapigs,0.293625784,0.360855401
-Mammals,horse,0.423431482,0.399735554
-Mammals,kangaroo,0.366382219,0.39588914
-Mammals,lion,0.387521301,0.30308987
-Mammals,monkey,0.393674916,0.316109933
-Mammals,moose,0.380038498,0.348035995
-Mammals,mouse,0.355145375,0.388409694
-Mammals,pig,0.387388594,0.291747289
-Mammals,porcupine,0.38273597,0.30956756
-Mammals,rabbit,0.396335057,0.318257804
-Mammals,raccoon,0.333494896,0.336135105
-Mammals,seal,0.293378687,0.356823939
-Mammals,skunk,0.348302615,0.263366643
-Mammals,squirrel,0.369413462,0.310267053
-Mammals,tiger,0.38031383,0.250838489
-Mammals,walrus,0.365457874,0.413175447
-Mammals,whale,0.355520483,0.406429028
-Mammals,wolf,0.389941621,0.286935199
-Mammals,zebra,0.352534555,0.324967631
-Musical Instruments,bagpipes,0.443184064,0.556437088
-Musical Instruments,banjo,0.401899299,0.442140196
-Musical Instruments,bell,0.275763857,0.193757644
-Musical Instruments,clarinet,0.473717979,0.525251241
-Musical Instruments,drum,0.404685423,0.426762253
-Musical Instruments,guitar,0.434773176,0.644039622
-Musical Instruments,harmonica,0.461335937,0.541016769
-Musical Instruments,harp,0.4433153,0.499037779
-Musical Instruments,piano,0.486587122,0.599278509
-Musical Instruments,saxophone,0.477513999,0.538634453
-Musical Instruments,trumpet,0.480095794,0.439981549
-Musical Instruments,violin,0.463902298,0.532904953
-Musical Instruments,xylophone,0.342724704,0.418201117
-Mythical & Mystical,alien,0.288803556,0.182433309
-Mythical & Mystical,angel,0.303465358,0.276970925
-Mythical & Mystical,arrow,0.265720227,0.033931149
-Mythical & Mystical,bow,0.309356191,0.02602695
-Mythical & Mystical,crown,0.307906339,0.080653067
-Mythical & Mystical,dinosaur,0.255372514,0.244614713
-Mythical & Mystical,dragon,0.374305437,0.361092001
-Mythical & Mystical,fairy,0.327914857,0.365432575
-Mythical & Mystical,genie,0.242126926,0.275371713
-Mythical & Mystical,ghost,0.31014128,0.235632145
-Mythical & Mystical,halo,0.259059831,0.212701685
-Mythical & Mystical,hook,0.280639473,0.113319428
-Mythical & Mystical,king,0.297710288,0.153657101
-Mythical & Mystical,knight,0.325363474,0.166731203
-Mythical & Mystical,map,0.189249011,0.078315897
-Mythical & Mystical,mermaid,0.261824356,0.375187023
-Mythical & Mystical,monster,0.280368596,0.267894925
-Mythical & Mystical,mummy,0.286642312,0.233503152
-Mythical & Mystical,pirate,0.284394146,0.169574844
-Mythical & Mystical,queen,0.296939845,0.173002479
-Mythical & Mystical,skeleton,0.270816455,0.217799656
-Mythical & Mystical,snowman,0.316171589,0.206816931
-Mythical & Mystical,sword,0.314951633,0.219950872
-Mythical & Mystical,treasurechest,0.226580778,0.1677789
-Mythical & Mystical,unicorn,0.28802601,0.436927529
-Mythical & Mystical,witch,0.315733766,0.28028697
-Mythical & Mystical,wizard,0.272771807,0.270124373
-Nature,acorn,0.217080023,0.088215177
-Nature,bamboo,0.295312878,0.197481753
-Nature,beach,0.308665691,0.35119317
-Nature,cactus,0.28901456,0.116656649
-Nature,cave,0.280404038,0.168379322
-Nature,cliff,0.337576224,0.187136126
-Nature,cloud,0.34515928,0.231122094
-Nature,desert,0.323511829,0.146825989
-Nature,fire,0.365107237,0.298642378
-Nature,flower,0.323024232,0.331433553
-Nature,forest,0.334157329,0.325354055
-Nature,garden,0.314786837,0.358101107
-Nature,grass,0.338201226,0.341984685
-Nature,hay,0.280841226,0.281332739
-Nature,hole,0.316785017,0.173797941
-Nature,island,0.318545869,0.323688872
-Nature,lava,0.321191285,0.103663205
-Nature,leaf,0.351780032,0.268848397
-Nature,lightning,0.318316485,0.243037218
-Nature,moon,0.305313495,0.150101349
-Nature,mountain,0.359180113,0.25805107
-Nature,mushroom,0.254241723,0.080035136
-Nature,nest,0.254254387,0.299068841
-Nature,palmtree,0.172018204,0.058641914
-Nature,pearl,0.278215172,0.278092421
-Nature,plant,0.379231551,0.291761332
-Nature,rain,0.366200153,0.310811698
-Nature,rainbow,0.328211684,0.2821162
-Nature,river,0.335965822,0.325469126
-Nature,rock,0.333134488,0.346201717
-Nature,roots,0.284293839,0.180674554
-Nature,seaweed,0.257443489,0.064301352
-Nature,smoke,0.331872262,0.261098176
-Nature,snowflake,0.282794254,0.25059587
-Nature,star,0.302616146,0.305682124
-Nature,stem,0.288976669,0.17423173
-Nature,sun,0.366974514,0.381934642
-Nature,sunflower,0.281591064,0.249576729
-Nature,tornado,0.272701146,0.177904273
-Nature,tree,0.383204854,0.402909689
-Nature,volcano,0.268263015,0.140206028
-Nature,waterfall,0.312756107,0.269378654
-Nature,wave,0.342183294,0.233487232
-Non Mammal,ant,0.340247441,0.326725477
-Non Mammal,bee,0.316194949,0.204544061
-Non Mammal,beetle,0.379503041,0.262633469
-Non Mammal,butterfly,0.386062143,0.263314277
-Non Mammal,caterpillar,0.368695023,0.251134883
-Non Mammal,crab,0.35489225,0.273430614
-Non Mammal,dragonfly,0.392440773,0.252467688
-Non Mammal,eel,0.385369088,0.265169123
-Non Mammal,fish,0.3736802,0.391008193
-Non Mammal,fly,0.338170704,0.327015379
-Non Mammal,frog,0.376079528,0.323644278
-Non Mammal,goldfish,0.31307316,0.265002847
-Non Mammal,grasshopper,0.348393809,0.250824234
-Non Mammal,jellyfish,0.371828757,0.332406609
-Non Mammal,ladybug,0.329887787,0.204842905
-Non Mammal,lobster,0.323306904,0.271132461
-Non Mammal,mosquito,0.37052848,0.333215669
-Non Mammal,moth,0.365268129,0.274988819
-Non Mammal,octopus,0.387383046,0.31818657
-Non Mammal,scorpion,0.336153374,0.21022697
-Non Mammal,seahorse,0.352656248,0.355165576
-Non Mammal,shark,0.370150289,0.325311776
-Non Mammal,snail,0.362969348,0.330786354
-Non Mammal,snake,0.363827374,0.367361133
-Non Mammal,spider,0.386433961,0.312882684
-Non Mammal,starfish,0.375402083,0.32231062
-Non Mammal,turtle,0.354418352,0.306387112
-Non Mammal,worm,0.35648714,0.232407537
-Places and Buildings,africa,0.272323568,0.213060881
-Places and Buildings,airport,0.288703004,0.251544687
-Places and Buildings,australia,0.261029387,0.110283225
-Places and Buildings,bakery,0.240286797,0.254190013
-Places and Buildings,bar,0.287043573,0.197675106
-Places and Buildings,barn,0.288253855,0.20537666
-Places and Buildings,cabin,0.332045519,0.248667594
-Places and Buildings,castle,0.290089863,0.262685867
-Places and Buildings,church,0.313504925,0.298385334
-Places and Buildings,city,0.29538717,0.298834593
-Places and Buildings,eiffeltower,0.251849386,0.109016764
-Places and Buildings,house,0.300342324,0.230901704
-Places and Buildings,hut,0.342282381,0.270895804
-Places and Buildings,igloo,0.24530697,0.148842893
-Places and Buildings,italy,0.255756328,0.188522459
-Places and Buildings,library,0.303209867,0.284875626
-Places and Buildings,lighthouse,0.252148631,0.176986328
-Places and Buildings,pyramid,0.230722558,0.165336747
-Places and Buildings,restaurant,0.304857044,0.31521115
-Places and Buildings,stadium,0.292474074,0.329432702
-Places and Buildings,tent,0.250326663,0.207565086
-Places and Buildings,tepee,0.339021605,0.221008482
-Places and Buildings,texas,0.248913503,0.13732143
-Places and Buildings,windmill,0.26004828,0.215455368
-School & Office Supplies,book,0.329237615,0.205760113
-School & Office Supplies,box,0.32110194,0.08855187
-School & Office Supplies,calculator,0.28099123,0.195903106
-School & Office Supplies,chalk,0.332446292,0.166735727
-School & Office Supplies,chalkboard,0.374994293,0.339479448
-School & Office Supplies,computer,0.321397244,0.215892022
-School & Office Supplies,crayon,0.369998168,0.22587762
-School & Office Supplies,envelope,0.341539611,0.108564346
-School & Office Supplies,eraser,0.379043326,0.257638747
-School & Office Supplies,globe,0.276084941,0.063734344
-School & Office Supplies,highlighter,0.307707018,0.175843568
-School & Office Supplies,keyboard,0.332794379,0.126611506
-School & Office Supplies,locker,0.346013008,0.309372176
-School & Office Supplies,lunchbox,0.250611708,0.256866565
-School & Office Supplies,marker,0.372794979,0.17319299
-School & Office Supplies,microscope,0.315124018,0.165915235
-School & Office Supplies,newspaper,0.348033922,0.256079414
-School & Office Supplies,notebook,0.337051717,0.307937593
-School & Office Supplies,package,0.311483264,0.153624557
-School & Office Supplies,paper,0.415678025,0.301702607
-School & Office Supplies,paperclip,0.323320834,0.187691123
-School & Office Supplies,pen,0.392459182,0.252945021
-School & Office Supplies,pencil,0.40461543,0.26661081
-School & Office Supplies,printer,0.34073811,0.202575414
-School & Office Supplies,rubberbands,0.335917542,0.193865432
-School & Office Supplies,ruler,0.277970917,0.190367303
-School & Office Supplies,scissors,0.332824976,0.175220942
-School & Office Supplies,stamp,0.366865891,0.114629838
-School & Office Supplies,stapler,0.356582427,0.415667227
-School & Office Supplies,stapleremover,0.269991672,0.09712332
-School & Office Supplies,staples,0.351633798,0.452435409
-School & Office Supplies,typewriter,0.331807053,0.232403052
-Structure,birdbath,0.277200557,0.215951688
-Structure,birdhouse,0.231487295,0.204959261
-Structure,bleachers,0.281767104,0.233920793
-Structure,bridge,0.342609385,0.369252608
-Structure,ceiling,0.297630767,0.409542857
-Structure,chimney,0.331542056,0.264508804
-Structure,closet,0.311638834,0.275636925
-Structure,crosswalk,0.232847286,0.124189603
-Structure,door,0.39826389,0.328631161
-Structure,elevator,0.303682137,0.282339113
-Structure,fence,0.358023624,0.290971592
-Structure,ferriswheel,0.267002127,0.20281319
-Structure,firehydrant,0.299197379,0.298332417
-Structure,fireplace,0.319157577,0.253953521
-Structure,flag,0.248825206,0.249622799
-Structure,fountain,0.309928295,0.205109957
-Structure,garage,0.300401549,0.380070861
-Structure,gate,0.337855838,0.230751658
-Structure,mailbox,0.296140259,0.181512184
-Structure,maze,0.264676953,0.206785375
-Structure,road,0.323437391,0.357336846
-Structure,rollercoaster,0.240638341,0.1672726
-Structure,roof,0.342052862,0.421890342
-Structure,sidewalk,0.340168045,0.356359931
-Structure,sign,0.299159979,0.289739272
-Structure,stage,0.293142548,0.418516701
-Structure,statue,0.287165864,0.332992293
-Structure,tunnel,0.250585546,0.219177087
-Structure,well,0.170734454,0.241355437
-Structure,window,0.348424581,0.406216339
-Tools & Hardware,ax,0.299939951,0.259699261
-Tools & Hardware,battery,0.325116682,0.332339157
-Tools & Hardware,brick,0.314473288,0.162580243
-Tools & Hardware,broom,0.346749585,0.204443317
-Tools & Hardware,bucket,0.317631769,0.188912102
-Tools & Hardware,chain,0.304973079,0.243744722
-Tools & Hardware,dustpan,0.412258488,0.251799507
-Tools & Hardware,flashlight,0.298709297,0.339017592
-Tools & Hardware,flyswatter,0.330111383,0.208250964
-Tools & Hardware,funnel,0.283318944,0.162927878
-Tools & Hardware,hammer,0.358297692,0.427766703
-Tools & Hardware,hinge,0.273485323,0.229896116
-Tools & Hardware,hose,0.355611028,0.347506257
-Tools & Hardware,iron,0.304023735,0.264138037
-Tools & Hardware,ironingboard,0.248433675,0.109132085
-Tools & Hardware,jack,0.238455845,0.127944061
-Tools & Hardware,key,0.303006543,0.269168302
-Tools & Hardware,ladder,0.329859658,0.296755625
-Tools & Hardware,lawnmower,0.312553826,0.182300809
-Tools & Hardware,lightbulb,0.354790055,0.249869848
-Tools & Hardware,lighter,0.292465282,0.181907046
-Tools & Hardware,lightswitch,0.292211559,0.218141546
-Tools & Hardware,magnet,0.284820073,0.199258118
-Tools & Hardware,match,0.250774007,0.210083611
-Tools & Hardware,mop,0.291833572,0.193816204
-Tools & Hardware,mousetrap,0.315077239,0.187570996
-Tools & Hardware,nail,0.336392024,0.277066676
-Tools & Hardware,paintbrush,0.30431936,0.317408366
-Tools & Hardware,plug,0.354934536,0.252673898
-Tools & Hardware,rake,0.301186852,0.19716687
-Tools & Hardware,rope,0.359446233,0.256917365
-Tools & Hardware,saw,0.283054585,0.212829319
-Tools & Hardware,screw,0.332046508,0.225827289
-Tools & Hardware,screwdriver,0.315232858,0.396564535
-Tools & Hardware,shovel,0.30542796,0.331703722
-Tools & Hardware,springs,0.232359062,0.23055599
-Tools & Hardware,thermometer,0.290665386,0.265579214
-Tools & Hardware,vacuum,0.316146037,0.179154834
-Tools & Hardware,wrench,0.328636218,0.418374794
-"Toys, Games & Hobbies",ball,0.361738663,0.399302419
-"Toys, Games & Hobbies",balloon,0.346650164,0.326067488
-"Toys, Games & Hobbies",baseball,0.318768147,0.336009194
-"Toys, Games & Hobbies",basketball,0.328617023,0.338428147
-"Toys, Games & Hobbies",beads,0.282710599,0.274964996
-"Toys, Games & Hobbies",binoculars,0.261325142,0.265482776
-"Toys, Games & Hobbies",bubble,0.311519837,0.267630361
-"Toys, Games & Hobbies",camera,0.295987998,0.382608528
-"Toys, Games & Hobbies",checkers,0.256044931,0.249285918
-"Toys, Games & Hobbies",compass,0.2374923,0.254794444
-"Toys, Games & Hobbies",dart,0.306066067,0.274173568
-"Toys, Games & Hobbies",dice,0.273296789,0.270805997
-"Toys, Games & Hobbies",doll,0.296069511,0.540453439
-"Toys, Games & Hobbies",dominoes,0.288272319,0.33817696
-"Toys, Games & Hobbies",football,0.306050956,0.34075764
-"Toys, Games & Hobbies",golfball,0.332057565,0.318222016
-"Toys, Games & Hobbies",hopscotch,0.323210295,0.327630036
-"Toys, Games & Hobbies",jumprope,0.356166195,0.343388823
-"Toys, Games & Hobbies",kite,0.295003323,0.199386535
-"Toys, Games & Hobbies",magnifyingglass,0.224824239,0.187407341
-"Toys, Games & Hobbies",marbles,0.300984989,0.362898254
-"Toys, Games & Hobbies",medal,0.255341532,0.230315924
-"Toys, Games & Hobbies",microphone,0.281328103,0.254973696
-"Toys, Games & Hobbies",needle,0.278528097,0.236909708
-"Toys, Games & Hobbies",net,0.265960494,0.274567219
-"Toys, Games & Hobbies",record,0.230714677,0.219461919
-"Toys, Games & Hobbies",robot,0.265631397,0.399108804
-"Toys, Games & Hobbies",sandcastle,0.202663799,0.24497454
-"Toys, Games & Hobbies",sewingmachine,0.294727998,0.318423398
-"Toys, Games & Hobbies",skateboard,0.309415652,0.393108949
-"Toys, Games & Hobbies",skis,0.243690791,0.293412448
-"Toys, Games & Hobbies",sled,0.288435228,0.329890721
-"Toys, Games & Hobbies",slide,0.31437243,0.308767003
-"Toys, Games & Hobbies",slingshot,0.304565616,0.330825433
-"Toys, Games & Hobbies",sparkler,0.300090678,0.372434503
-"Toys, Games & Hobbies",swing,0.329485299,0.367065585
-"Toys, Games & Hobbies",target,0.20826831,0.252504877
-"Toys, Games & Hobbies",telescope,0.245413094,0.2414127
-"Toys, Games & Hobbies",tennisball,0.238707544,0.153254424
-"Toys, Games & Hobbies",thimble,0.311658592,0.347521304
-"Toys, Games & Hobbies",tictactoe,0.312546398,0.26698185
-"Toys, Games & Hobbies",top,0.237098817,0.263120642
-"Toys, Games & Hobbies",trophy,0.252454447,0.232587923
-"Toys, Games & Hobbies",whistle,0.287611575,0.235529502
-"Toys, Games & Hobbies",yarn,0.284043759,0.399973682
-"Toys, Games & Hobbies",yoyo,0.337402242,0.461635132
-Types of People,baby,0.327574544,0.237361175
-Types of People,boy,0.286552765,0.283545942
-Types of People,bride,0.310461566,0.225217321
-Types of People,captain,0.319427453,0.126066711
-Types of People,cheerleaders,0.201672642,0.117597677
-Types of People,choir,0.239372244,0.173733136
-Types of People,clown,0.286917777,0.146397128
-Types of People,cowboy,0.310850239,0.228698871
-Types of People,dentist,0.273043385,0.17788008
-Types of People,doctor,0.309858081,0.154541833
-Types of People,farmer,0.302907256,0.183342406
-Types of People,fisherman,0.305872345,0.091793344
-Types of People,girl,0.332231578,0.28377864
-Types of People,judge,0.233117774,0.180532794
-Types of People,mailman,0.294882541,0.187663237
-Types of People,man,0.326756091,0.354164847
-Types of People,nun,0.231882161,0.188824292
-Types of People,nurse,0.325809653,0.14053144
-Types of People,painter,0.265351198,0.118107919
-Types of People,pilgrim,0.24331486,0.125980016
-Types of People,pilot,0.327273064,0.17261343
-Types of People,priest,0.316555577,0.203216323
-Types of People,sailor,0.337811824,0.141743256
-Types of People,teacher,0.371114819,0.190572162
-Types of People,twins,0.208257997,0.103970479
-Types of People,waiter,0.330768702,0.201273108
-Types of People,waitress,0.328281096,0.145538109
-Uncategorized,bird,0.291745039,0.301311653
-Uncategorized,bomb,0.322910463,0.249793327
-Uncategorized,bullet,0.354875714,0.224944956
-Uncategorized,cage,0.301359415,0.289537829
-Uncategorized,cannon,0.288022748,0.278233742
-Uncategorized,cigar,0.271327758,0.176978052
-Uncategorized,cigarette,0.313521616,0.172764622
-Uncategorized,coins,0.292291388,0.229775782
-Uncategorized,cross,0.319287548,0.292477941
-Uncategorized,fruit,0.274099845,0.298330396
-Uncategorized,grenade,0.252401017,0.111925919
-Uncategorized,heart,0.302221239,0.229744217
-Uncategorized,knot,0.263563484,0.348586893
-Uncategorized,licenseplate,0.287617033,0.387554675
-Uncategorized,mask,0.257026933,0.223118177
-Uncategorized,menu,0.266159447,0.217879302
-Uncategorized,money,0.282512605,0.225990732
-Uncategorized,parachute,0.316829954,0.224669694
-Uncategorized,passports,0.240630272,0.211305293
-Uncategorized,penny,0.255470521,0.215211988
-Uncategorized,saddle,0.284187958,0.203586106
-Uncategorized,shapes,0.295027676,0.166754971
-Uncategorized,steam,0.231275796,0.241501677
-Uncategorized,stethoscope,0.252403226,0.140981076
-Uncategorized,ticket,0.293994904,0.251206206
-Uncategorized,vegetables,0.261895398,0.2933213
-Uncategorized,wheel,0.330056952,0.284769014
-Uncategorized,whip,0.247139902,0.197953393
-Vehicles,airplane,0.355869936,0.304721765
-Vehicles,ambulance,0.253282449,0.304693394
-Vehicles,anchor,0.319828765,0.228540403
-Vehicles,blimp,0.301362503,0.304225871
-Vehicles,bus,0.358420383,0.336316416
-Vehicles,canoe,0.354875622,0.229032589
-Vehicles,car,0.385265961,0.593613087
-Vehicles,golfcart,0.255366584,0.246660541
-Vehicles,helicopter,0.342989101,0.337283968
-Vehicles,hotairballoon,0.243366648,0.228855713
-Vehicles,motorcycle,0.367074688,0.477468531
-Vehicles,rocket,0.3315449,0.347083308
-Vehicles,sails,0.289136552,0.246078004
-Vehicles,ship,0.387926671,0.374585132
-Vehicles,stroller,0.287681505,0.312327349
-Vehicles,submarine,0.308176396,0.219097777
-Vehicles,tank,0.356032477,0.437139204
-Vehicles,tire,0.351221503,0.393933013
-Vehicles,tractor,0.350635685,0.422608817
-Vehicles,train,0.333940001,0.283224578
-Vehicles,truck,0.390108095,0.594297003
-Vehicles,unicycle,0.334224564,0.344482724
-Vehicles,van,0.348285556,0.339404168
-Vehicles,wheelchair,0.316033037,0.409299939
+"","category","item","CohesionScore","LabelCohesionScore"
+"1","Accessories","apron",0.333217902540981,0.199736665841272
+"2","Accessories","backpack",0.355084718212231,0.283939965356183
+"3","Accessories","bandana",0.416345425489766,0.335529661838995
+"4","Accessories","belt",0.371042877125696,0.342733784887688
+"5","Accessories","bib",0.383288374887858,0.244414954216869
+"6","Accessories","bracelet",0.404897595758177,0.409139890618097
+"7","Accessories","cane",0.327935362765548,0.243258037023891
+"8","Accessories","cast",0.310370904661981,0.307898395274876
+"9","Accessories","collar",0.419545363187839,0.379807950436056
+"10","Accessories","crutches",0.288701154767667,0.165926659408678
+"11","Accessories","diaper",0.314813643305139,0.0789391146923442
+"12","Accessories","earmuffs",0.389531606753202,0.32590929578845
+"13","Accessories","earrings",0.37142771979583,0.343639266457666
+"14","Accessories","glasses",0.358855732950859,0.303662262226519
+"15","Accessories","glove",0.340153019329359,0.235256828050868
+"16","Accessories","handcuffs",0.362505245965835,0.288857709347814
+"17","Accessories","hat",0.380109108815407,0.323188864881174
+"18","Accessories","helmet",0.352000501729067,0.165776602603438
+"19","Accessories","necklace",0.41209827252452,0.359889829615884
+"20","Accessories","pipe",0.335403711186473,0.348962846149129
+"21","Accessories","purse",0.409216094459298,0.415908158051908
+"22","Accessories","ring",0.378270160982774,0.308833129089165
+"23","Accessories","scarf",0.411237498396847,0.284892417472717
+"24","Accessories","sunglasses",0.362846275522224,0.247087218203828
+"25","Accessories","suspenders",0.374586704536909,0.393151421837093
+"26","Accessories","tiara",0.325202018719259,0.289126382895471
+"27","Accessories","tie",0.370563798801461,0.356374894356001
+"28","Accessories","umbrella",0.330859800174739,0.226859701690905
+"29","Accessories","walker",0.192675044231145,0.0668323461796955
+"30","Accessories","wallet",0.354897753648145,0.319707082386382
+"31","Accessories","watch",0.290698349143477,0.300788374611585
+"32","Accessories","wig",0.364138099645644,0.147084699259189
+"33","Bathroom Items and Toiletries","bathroom",0.337969235895318,0.433087761037925
+"34","Bathroom Items and Toiletries","brush",0.399370560721884,0.0853676701675513
+"35","Bathroom Items and Toiletries","comb",0.401934858995596,0.0579250557347182
+"36","Bathroom Items and Toiletries","faucet",0.369938462108917,0.155977473881717
+"37","Bathroom Items and Toiletries","lipstick",0.298277841131417,0.141377919175183
+"38","Bathroom Items and Toiletries","mascara",0.322972975998966,0.13753566724166
+"39","Bathroom Items and Toiletries","nailclipper",0.33175518349263,0
+"40","Bathroom Items and Toiletries","nailpolish",0.32124862020264,0.133235609281923
+"41","Bathroom Items and Toiletries","plunger",0.36913147268093,0.197905753054335
+"42","Bathroom Items and Toiletries","razor",0.29695919513105,0.0564721325095171
+"43","Bathroom Items and Toiletries","shavingcream",0.279472731264891,0
+"44","Bathroom Items and Toiletries","shower",0.330623778671234,0.151117326257202
+"45","Bathroom Items and Toiletries","sink",0.399470481105294,0.182132616269813
+"46","Bathroom Items and Toiletries","tile",0.322891763295653,0.122065600643021
+"47","Bathroom Items and Toiletries","toilet",0.33839950566955,0.370694433754339
+"48","Bathroom Items and Toiletries","toiletpaper",0.420276095496934,0.278986403404093
+"49","Bathroom Items and Toiletries","toothbrush",0.42777828836133,0.214743760714569
+"50","Bathroom Items and Toiletries","toothpaste",0.345795220927372,0.0880155036903634
+"51","Bathroom Items and Toiletries","towel",0.309656906230058,0.166670249484316
+"52","Bathroom Items and Toiletries","tweezers",0.338531429410597,0.00743510651606849
+"53","Birds","chick",0.383530789987081,0.46509988768215
+"54","Birds","dove",0.336658048984697,0.340921303142414
+"55","Birds","duck",0.346496992108199,0.388757584507114
+"56","Birds","flamingo",0.414845712555668,0.414114318870781
+"57","Birds","hummingbird",0.448875308361831,0.524407518150052
+"58","Birds","ostrich",0.418856638314628,0.446195745118036
+"59","Birds","owl",0.394418479953866,0.486015690101946
+"60","Birds","parrot",0.420759925487275,0.544262930429543
+"61","Birds","peacock",0.448205497042716,0.455361086766196
+"62","Birds","pelican",0.421499899126924,0.491554952154439
+"63","Birds","penguin",0.404372264486809,0.484035327790807
+"64","Birds","pigeons",0.431009170641059,0.668453769781313
+"65","Birds","rooster",0.389549397639186,0.441202921186609
+"66","Birds","seagull",0.446838910209272,0.498849614835318
+"67","Birds","swan",0.414391776057244,0.36867789324475
+"68","Birds","turkey",0.317286412285165,0.423554464106391
+"69","Birds","vulture",0.38888088927364,0.454981325719368
+"70","Birds","woodpecker",0.439992918762033,0.520875283828969
+"71","Body Parts","antler",0.314148062092859,0.375946282022396
+"72","Body Parts","arm",0.407665677859182,0.454391533182825
+"73","Body Parts","beak",0.395677019605323,0.341781162144708
+"74","Body Parts","beard",0.336695592503405,0.234853763947275
+"75","Body Parts","blackeye",0.328952683827906,0.255514454540781
+"76","Body Parts","bone",0.382585749579985,0.380720714712103
+"77","Body Parts","brain",0.354657551537676,0.521856048790227
+"78","Body Parts","bruise",0.344148670810407,0.306559748535547
+"79","Body Parts","chest",0.419793649404894,0.479661482044315
+"80","Body Parts","chin",0.399078817344074,0.328008338577468
+"81","Body Parts","ear",0.426083271229326,0.447523069313944
+"82","Body Parts","elbow",0.36234813929588,0.379511078220778
+"83","Body Parts","eye",0.417904726532377,0.395089474899472
+"84","Body Parts","feather",0.353798895941497,0.282702056211927
+"85","Body Parts","fin",0.270929496421457,0.218479371362878
+"86","Body Parts","finger",0.415308024148005,0.444405250254912
+"87","Body Parts","fist",0.395710873597911,0.397089410595093
+"88","Body Parts","foot",0.437202108238708,0.46035480295014
+"89","Body Parts","hair",0.400367613516148,0.474622323806129
+"90","Body Parts","hand",0.388359016060722,0.469551335855762
+"91","Body Parts","hoof",0.317871409588986,0.297023379742079
+"92","Body Parts","horn",0.340333689549895,0.343449719257232
+"93","Body Parts","lips",0.401410940209514,0.497732614077032
+"94","Body Parts","lungs",0.337354738211199,0.446243153096603
+"95","Body Parts","mane",0.295417649490148,0.250862534255755
+"96","Body Parts","mustache",0.323497532817948,0.290609443285884
+"97","Body Parts","neck",0.42305591030237,0.452592841263861
+"98","Body Parts","nose",0.372061463152766,0.411746167831539
+"99","Body Parts","skull",0.372470130233955,0.445575495089848
+"100","Body Parts","spot",0.315166689754174,0.213213456963559
+"101","Body Parts","stomach",0.376468848271351,0.445385558396426
+"102","Body Parts","tail",0.369765502118493,0.306161214187169
+"103","Body Parts","tattoo",0.339249185170681,0.336180479655384
+"104","Body Parts","tear",0.332693958983088,0.309086190798404
+"105","Body Parts","thumb",0.40630440700265,0.338418153680127
+"106","Body Parts","toes",0.369847548548061,0.519663286418752
+"107","Body Parts","tongue",0.397485735882491,0.390376690769471
+"108","Body Parts","tooth",0.371605240325312,0.260357123493848
+"109","Body Parts","trunk",0.377691067671536,0.451304411482782
+"110","Body Parts","wing",0.358268596415757,0.329218335635632
+"111","Body Parts","wrist",0.416519376730157,0.367164629502702
+"112","Clothing","armor",0.351707565073351,0.419456040616085
+"113","Clothing","boot",0.398221445726607,0.36068658909486
+"114","Clothing","button",0.29668459495557,0.264866884692617
+"115","Clothing","dress",0.480114297491494,0.646933142949242
+"116","Clothing","heel",0.361279047778399,0.243095798138811
+"117","Clothing","jacket",0.485364101327199,0.569385812658963
+"118","Clothing","jeans",0.413226012447058,0.569266630053396
+"119","Clothing","pants",0.450554569398659,0.564473306482004
+"120","Clothing","pocket",0.388061583499177,0.346926566172972
+"121","Clothing","raincoat",0.380565726289075,0.465374734433124
+"122","Clothing","robe",0.47672153694355,0.618739755325946
+"123","Clothing","sandals",0.342532973995652,0.375483465487167
+"124","Clothing","shirt",0.430568586153056,0.56069984819719
+"125","Clothing","shoe",0.454097260319593,0.488600666007103
+"126","Clothing","shoelace",0.41737436580575,0.37284084627324
+"127","Clothing","sleeve",0.427053775770312,0.406486585512485
+"128","Clothing","slippers",0.361728776552984,0.331407871505937
+"129","Clothing","sock",0.404095500061961,0.32249714732857
+"130","Clothing","suit",0.407778207120871,0.526904929378478
+"131","Clothing","sweater",0.450859592980368,0.471503927854742
+"132","Clothing","underwear",0.426149637990192,0.630167561901541
+"133","Clothing","vest",0.438269340152321,0.516202314855719
+"134","Clothing","zipper",0.40657410373485,0.356728021774629
+"135","Food","bacon",0.366508217753152,0.374334326246862
+"136","Food","bagel",0.351557126979772,0.324814903330523
+"137","Food","biscuits",0.409967304077902,0.466086339830659
+"138","Food","bread",0.410174197280791,0.537833873090383
+"139","Food","breakfast",0.352802702611994,0.511383012523397
+"140","Food","butter",0.375154664288341,0.367741393747177
+"141","Food","cake",0.411422993091789,0.482312426765151
+"142","Food","candy",0.379738388186365,0.46250196958367
+"143","Food","champagne",0.275040445066519,0.215088226514089
+"144","Food","cheese",0.390683156044653,0.483522426945578
+"145","Food","chocolate",0.370037615946223,0.419903829139157
+"146","Food","cookies",0.371073162707318,0.418453200881289
+"147","Food","cottoncandy",0.327917889732232,0.438242909595007
+"148","Food","crackers",0.37464069955229,0.397289361948935
+"149","Food","croissant",0.296177374363833,0.25106012314038
+"150","Food","cupcake",0.358380632091603,0.317309655303456
+"151","Food","dough",0.356925967895498,0.448883971009466
+"152","Food","egg",0.367329166638024,0.429081789973039
+"153","Food","eggrolls",0.398152447198467,0.481681870445893
+"154","Food","honey",0.358800679206722,0.325380696721917
+"155","Food","hotdog",0.30760803396924,0.281053828424931
+"156","Food","ketchup",0.335905047201556,0.27413935600006
+"157","Food","mustard",0.33563264773553,0.256404797048663
+"158","Food","pancakes",0.371377220092888,0.379637524261725
+"159","Food","peanuts",0.368611545290248,0.402362068777195
+"160","Food","pickles",0.306694554196151,0.279928972365866
+"161","Food","pie",0.373085988437209,0.455735377298845
+"162","Food","pizza",0.376859006927365,0.534369414535624
+"163","Food","popcorn",0.335441723847428,0.297392814601666
+"164","Food","pretzel",0.374139483124033,0.342324001318323
+"165","Food","rice",0.34144945863032,0.458331697338232
+"166","Food","salad",0.356398399075067,0.432314292688717
+"167","Food","sandwich",0.383137283548768,0.444885749266713
+"168","Food","shrimp",0.347140605245984,0.379103329982998
+"169","Food","soup",0.369133923785357,0.454629478499313
+"170","Food","spaghetti",0.356842246904297,0.365337351942521
+"171","Food","steak",0.36636845841424,0.468536095271148
+"172","Food","sugar",0.344364053005947,0.35968372474132
+"173","Food","sushi",0.334174266473086,0.417533799037512
+"174","Food","syrup",0.362060482741618,0.299548073080455
+"175","Food","teabag",0.28641838965533,0.287233076028224
+"176","Food","waffles",0.35260213406876,0.343859537711801
+"177","Food","wine",0.308031595232013,0.412160236310648
+"178","Fruits & Vegetables","apple",0.337262654009144,0.352204179862983
+"179","Fruits & Vegetables","asparagus",0.330983668883113,0.342097949331701
+"180","Fruits & Vegetables","avocado",0.310234241503887,0.330581762419118
+"181","Fruits & Vegetables","banana",0.406597883606234,0.353066632057754
+"182","Fruits & Vegetables","blueberry",0.363189607371081,0.301041499262124
+"183","Fruits & Vegetables","broccoli",0.376768241879063,0.489085423761911
+"184","Fruits & Vegetables","carrot",0.364240024210106,0.495008120351031
+"185","Fruits & Vegetables","cauliflower",0.34095638563608,0.407118299520691
+"186","Fruits & Vegetables","celery",0.35312709391267,0.417905390266448
+"187","Fruits & Vegetables","cherries",0.333469593559158,0.373402435063357
+"188","Fruits & Vegetables","coconut",0.401146726215874,0.315095952573565
+"189","Fruits & Vegetables","corn",0.3469083061816,0.399451880807957
+"190","Fruits & Vegetables","cucumber",0.34181130621509,0.47408918491804
+"191","Fruits & Vegetables","eggplant",0.341330183874357,0.446231396095715
+"192","Fruits & Vegetables","garlic",0.320530991054174,0.305496909678497
+"193","Fruits & Vegetables","ginger",0.30704673638923,0.156408173019095
+"194","Fruits & Vegetables","grapes",0.365197083326816,0.487280291502037
+"195","Fruits & Vegetables","kiwi",0.347398714441867,0.365538208058595
+"196","Fruits & Vegetables","lemon",0.390735328485166,0.313433490818455
+"197","Fruits & Vegetables","lime",0.365347697461658,0.289416321632963
+"198","Fruits & Vegetables","onion",0.351782388484617,0.311518663528625
+"199","Fruits & Vegetables","orange",0.373903368923114,0.3316142927736
+"200","Fruits & Vegetables","pear",0.336354463999025,0.358024467647462
+"201","Fruits & Vegetables","peas",0.368972692366643,0.392750386568751
+"202","Fruits & Vegetables","pineapple",0.381455576425552,0.37069623840605
+"203","Fruits & Vegetables","plum",0.346595693616157,0.35956962452748
+"204","Fruits & Vegetables","potato",0.345966454497378,0.305509211678606
+"205","Fruits & Vegetables","pumpkin",0.373644145835043,0.313334736413013
+"206","Fruits & Vegetables","raspberry",0.382013636577213,0.263090850093374
+"207","Fruits & Vegetables","strawberry",0.376959423078756,0.313741676903053
+"208","Fruits & Vegetables","tomato",0.354954258634324,0.401086431285123
+"209","Fruits & Vegetables","watermelon",0.406437670397928,0.496911263876485
+"210","Furnishings & Decor","ashtray",0.293733855367664,0.210671974979076
+"211","Furnishings & Decor","barrel",0.315348568020026,0.181033210340484
+"212","Furnishings & Decor","bed",0.367613242245144,0.293945537469369
+"213","Furnishings & Decor","bench",0.351850001548424,0.258382308627103
+"214","Furnishings & Decor","calendar",0.260530569926823,0.230819919622843
+"215","Furnishings & Decor","candle",0.335104522574579,0.219665956931493
+"216","Furnishings & Decor","chair",0.354045803683973,0.303971957021646
+"217","Furnishings & Decor","chandelier",0.33688916116806,0.400930965947339
+"218","Furnishings & Decor","clock",0.319793455948939,0.161243528516216
+"219","Furnishings & Decor","crib",0.352390443595125,0.297757637521383
+"220","Furnishings & Decor","curtains",0.301596247950594,0.3276218211626
+"221","Furnishings & Decor","desk",0.359689394586941,0.36559954381631
+"222","Furnishings & Decor","discoball",0.259851310637301,0.137083690719279
+"223","Furnishings & Decor","dresser",0.367082026512456,0.411604442924804
+"224","Furnishings & Decor","fan",0.24785235719363,0.130057439431358
+"225","Furnishings & Decor","hammock",0.265955700879893,0.179330266693251
+"226","Furnishings & Decor","highchair",0.312760248413785,0.312268039404951
+"227","Furnishings & Decor","jukebox",0.266718208232056,0.19448090254574
+"228","Furnishings & Decor","lamp",0.360232139808375,0.300276863676013
+"229","Furnishings & Decor","magazines",0.261567739926003,0.229321201043504
+"230","Furnishings & Decor","mattress",0.347388392624302,0.259489918469925
+"231","Furnishings & Decor","mirror",0.247884853121691,0.0938065693570738
+"232","Furnishings & Decor","piggybank",0.329019174318687,0.128107800373762
+"233","Furnishings & Decor","pillow",0.341684060907501,0.276711665506622
+"234","Furnishings & Decor","radio",0.294048823164596,0.158684320776121
+"235","Furnishings & Decor","recordplayer",0.271137756544936,0.0929164927336159
+"236","Furnishings & Decor","rockingchair",0.283994873625817,0.123251135561787
+"237","Furnishings & Decor","rug",0.33926705237549,0.366232849198935
+"238","Furnishings & Decor","safe",0.231228506350059,0.173053732654044
+"239","Furnishings & Decor","speaker",0.32472682334943,0.213195962715742
+"240","Furnishings & Decor","stocking",0.296209542453775,0.229787223767096
+"241","Furnishings & Decor","stool",0.35360996435302,0.264713967541968
+"242","Furnishings & Decor","table",0.352161645763447,0.351968436255877
+"243","Furnishings & Decor","tray",0.333499499444467,0.239185965417932
+"244","Furnishings & Decor","treadmill",0.261416769453657,0.1339722801956
+"245","Furnishings & Decor","vase",0.30730507636014,0.247408085646235
+"246","Furnishings & Decor","wreath",0.30189223974238,0.395839735548555
+"247","Kitchen Items","bag",0.37338619149448,0.310975961846593
+"248","Kitchen Items","basket",0.334630291655984,0.286632462865952
+"249","Kitchen Items","blender",0.310596512732896,0.340554612172895
+"250","Kitchen Items","bottle",0.374954376585219,0.300745760842235
+"251","Kitchen Items","bowl",0.372516584120693,0.266056538142642
+"252","Kitchen Items","cabinet",0.334649314057134,0.462716030786909
+"253","Kitchen Items","can",0.155419092456141,0.104037053240099
+"254","Kitchen Items","canopener",0.266516017655008,0.187182145932092
+"255","Kitchen Items","chopsticks",0.325949173731808,0.326197896618133
+"256","Kitchen Items","cooler",0.282264360445052,0.213684425657597
+"257","Kitchen Items","cork",0.252899507207143,0.162310646151299
+"258","Kitchen Items","cup",0.379537769380861,0.267774049903565
+"259","Kitchen Items","drawer",0.348749276228856,0.352906365164095
+"260","Kitchen Items","flask",0.297707327828921,0.185692068329391
+"261","Kitchen Items","fork",0.35754922998854,0.220984096972013
+"262","Kitchen Items","grill",0.337482057424878,0.362422926666721
+"263","Kitchen Items","jar",0.36059457639948,0.242586936452823
+"264","Kitchen Items","kitchen",0.304158215994673,0.781692530198749
+"265","Kitchen Items","knife",0.395070179994994,0.367143299383418
+"266","Kitchen Items","ladle",0.421711197393232,0.393058708565488
+"267","Kitchen Items","measuringcup",0.194480251726023,0.169206944871814
+"268","Kitchen Items","nutcracker",0.299635161612932,0.196586743437635
+"269","Kitchen Items","plate",0.377894164875385,0.355654422769253
+"270","Kitchen Items","refrigerator",0.313504077712252,0.353620469017486
+"271","Kitchen Items","rollingpin",0.339673235053045,0.17634666168452
+"272","Kitchen Items","spatula",0.351067082597717,0.389740936598458
+"273","Kitchen Items","spoon",0.396460007575576,0.280008067042046
+"274","Kitchen Items","straw",0.343070783043848,0.163324346811851
+"275","Kitchen Items","teapot",0.317876392960563,0.219933409037607
+"276","Kitchen Items","toaster",0.307470663597319,0.331133512464109
+"277","Kitchen Items","toothpick",0.392316773358559,0.269161110295711
+"278","Mammals","bat",0.375719742625968,0.37388037455914
+"279","Mammals","bear",0.381169450254461,0.24643452616583
+"280","Mammals","bull",0.336185688071806,0.303029247248344
+"281","Mammals","camel",0.345357085689666,0.352502753206057
+"282","Mammals","cat",0.40079392925445,0.333890074749169
+"283","Mammals","cow",0.400489171160648,0.439352030706619
+"284","Mammals","deer",0.388624987375421,0.392196437585859
+"285","Mammals","dog",0.399579170208285,0.339630246845011
+"286","Mammals","dolphin",0.311972764222999,0.419257434709702
+"287","Mammals","elephant",0.418768540031473,0.382987216208794
+"288","Mammals","fox",0.317089127201193,0.283539633882664
+"289","Mammals","giraffe",0.342773650516175,0.371320917932114
+"290","Mammals","goat",0.376899969164167,0.346350506895922
+"291","Mammals","guineapigs",0.293625783838417,0.360855400764371
+"292","Mammals","horse",0.423431482031365,0.399735553579637
+"293","Mammals","kangaroo",0.366382218625987,0.395889139561303
+"294","Mammals","lion",0.38752130075702,0.303089869937428
+"295","Mammals","monkey",0.39367491640109,0.316109932528857
+"296","Mammals","moose",0.380038498162112,0.348035995064427
+"297","Mammals","mouse",0.355145374615093,0.388409693777021
+"298","Mammals","pig",0.387388594241438,0.291747288665605
+"299","Mammals","porcupine",0.382735969813342,0.309567559923119
+"300","Mammals","rabbit",0.396335057413566,0.318257803981261
+"301","Mammals","raccoon",0.333494895857324,0.336135105414078
+"302","Mammals","seal",0.293378687034814,0.356823939356929
+"303","Mammals","skunk",0.348302614534995,0.263366643259649
+"304","Mammals","squirrel",0.369413462414043,0.310267053466273
+"305","Mammals","tiger",0.380313829933371,0.250838489467667
+"306","Mammals","walrus",0.365457873578701,0.413175446716326
+"307","Mammals","whale",0.355520483455492,0.406429027970303
+"308","Mammals","wolf",0.389941620774649,0.286935199148615
+"309","Mammals","zebra",0.352534554767611,0.324967631078042
+"310","Musical Instruments","bagpipes",0.443184064231614,0.556437087787997
+"311","Musical Instruments","banjo",0.401899298727843,0.442140195673994
+"312","Musical Instruments","bell",0.275763857123211,0.193757643842567
+"313","Musical Instruments","clarinet",0.473717978904713,0.525251240696349
+"314","Musical Instruments","drum",0.404685423075213,0.426762252810622
+"315","Musical Instruments","guitar",0.434773175577685,0.644039622375508
+"316","Musical Instruments","harmonica",0.461335937212986,0.541016769120202
+"317","Musical Instruments","harp",0.443315299660866,0.499037778651958
+"318","Musical Instruments","piano",0.486587121667238,0.599278509451118
+"319","Musical Instruments","saxophone",0.477513998976712,0.53863445332874
+"320","Musical Instruments","trumpet",0.480095794227733,0.4399815488589
+"321","Musical Instruments","violin",0.463902297866054,0.532904953144716
+"322","Musical Instruments","xylophone",0.342724704426971,0.418201117417496
+"323","Mythical & Mystical","alien",0.288803555537507,0.182433308841231
+"324","Mythical & Mystical","angel",0.303465358410538,0.276970925069622
+"325","Mythical & Mystical","arrow",0.265720227281843,0.0339311491242176
+"326","Mythical & Mystical","bow",0.309356190582815,0.0260269500798638
+"327","Mythical & Mystical","crown",0.307906338550105,0.0806530670794862
+"328","Mythical & Mystical","dinosaur",0.25537251371209,0.24461471290105
+"329","Mythical & Mystical","dragon",0.374305437319766,0.361092001087941
+"330","Mythical & Mystical","fairy",0.327914857447644,0.365432575041491
+"331","Mythical & Mystical","genie",0.242126925967008,0.27537171266424
+"332","Mythical & Mystical","ghost",0.310141280326201,0.235632145238989
+"333","Mythical & Mystical","halo",0.259059831394813,0.212701685144737
+"334","Mythical & Mystical","hook",0.280639473480285,0.113319428022015
+"335","Mythical & Mystical","king",0.297710288270844,0.153657101103409
+"336","Mythical & Mystical","knight",0.325363473772615,0.166731202526127
+"337","Mythical & Mystical","map",0.189249011325148,0.0783158974057272
+"338","Mythical & Mystical","mermaid",0.261824355756786,0.375187023379397
+"339","Mythical & Mystical","monster",0.280368595963646,0.26789492517171
+"340","Mythical & Mystical","mummy",0.286642311807555,0.233503151525525
+"341","Mythical & Mystical","pirate",0.28439414642215,0.169574843562563
+"342","Mythical & Mystical","queen",0.296939845426895,0.173002479400834
+"343","Mythical & Mystical","skeleton",0.270816455161165,0.217799655794079
+"344","Mythical & Mystical","snowman",0.316171589433173,0.206816930936511
+"345","Mythical & Mystical","sword",0.314951633272437,0.219950872122118
+"346","Mythical & Mystical","treasurechest",0.226580778063404,0.167778900456579
+"347","Mythical & Mystical","unicorn",0.288026010371948,0.436927528952133
+"348","Mythical & Mystical","witch",0.315733766203664,0.28028697028948
+"349","Mythical & Mystical","wizard",0.272771806869284,0.270124372523165
+"350","Nature","acorn",0.217080023026309,0.0882151766403295
+"351","Nature","bamboo",0.295312878260408,0.197481753033994
+"352","Nature","beach",0.308665691395556,0.351193170230334
+"353","Nature","cactus",0.289014560218982,0.116656649322422
+"354","Nature","cave",0.280404038121399,0.168379322262297
+"355","Nature","cliff",0.337576224079943,0.187136125848788
+"356","Nature","cloud",0.345159279530677,0.231122094188167
+"357","Nature","desert",0.323511828593802,0.14682598853995
+"358","Nature","fire",0.365107236941534,0.298642378181055
+"359","Nature","flower",0.323024231867298,0.331433552629934
+"360","Nature","forest",0.334157328786185,0.325354055102179
+"361","Nature","garden",0.314786836547194,0.358101106865919
+"362","Nature","grass",0.338201226079332,0.341984685221368
+"363","Nature","hay",0.280841226084211,0.28133273926733
+"364","Nature","hole",0.316785017476708,0.17379794052704
+"365","Nature","island",0.318545868646777,0.323688872209776
+"366","Nature","lava",0.321191285069895,0.103663204994049
+"367","Nature","leaf",0.351780031914698,0.268848396965884
+"368","Nature","lightning",0.318316484921618,0.243037218039794
+"369","Nature","moon",0.305313494930191,0.150101349082167
+"370","Nature","mountain",0.359180113013246,0.2580510700465
+"371","Nature","mushroom",0.254241722566046,0.0800351357464721
+"372","Nature","nest",0.254254387184995,0.299068841210846
+"373","Nature","palmtree",0.172018203517342,0.0586419141819944
+"374","Nature","pearl",0.278215172422126,0.278092421267871
+"375","Nature","plant",0.379231550973248,0.291761331774205
+"376","Nature","rain",0.366200152630065,0.310811697506852
+"377","Nature","rainbow",0.328211684086862,0.28211620012707
+"378","Nature","river",0.335965822171296,0.325469126279406
+"379","Nature","rock",0.333134488308375,0.346201716733871
+"380","Nature","roots",0.284293839225423,0.180674553909403
+"381","Nature","seaweed",0.257443488692107,0.0643013522731749
+"382","Nature","smoke",0.331872262093148,0.261098175708113
+"383","Nature","snowflake",0.282794253929155,0.250595869619413
+"384","Nature","star",0.302616146024399,0.305682123963746
+"385","Nature","stem",0.288976669481696,0.17423172953623
+"386","Nature","sun",0.366974513724012,0.381934642363007
+"387","Nature","sunflower",0.281591063933591,0.24957672875036
+"388","Nature","tornado",0.272701146499582,0.177904273382169
+"389","Nature","tree",0.383204854416447,0.40290968912965
+"390","Nature","volcano",0.268263014505917,0.140206028350477
+"391","Nature","waterfall",0.312756106526861,0.269378654304689
+"392","Nature","wave",0.34218329388089,0.233487231843664
+"393","Non Mammal","ant",0.340247441017426,0.326725477046006
+"394","Non Mammal","bee",0.316194948661022,0.204544060957111
+"395","Non Mammal","beetle",0.379503040550633,0.262633469097049
+"396","Non Mammal","butterfly",0.386062142914641,0.263314277024481
+"397","Non Mammal","caterpillar",0.368695022879492,0.25113488308236
+"398","Non Mammal","crab",0.354892250061302,0.273430613676285
+"399","Non Mammal","dragonfly",0.392440773234728,0.252467688199345
+"400","Non Mammal","eel",0.385369087618399,0.265169123410414
+"401","Non Mammal","fish",0.373680200091432,0.391008193276544
+"402","Non Mammal","fly",0.338170703998956,0.327015378812584
+"403","Non Mammal","frog",0.376079528188165,0.323644277715285
+"404","Non Mammal","goldfish",0.313073159566312,0.265002846812482
+"405","Non Mammal","grasshopper",0.348393809262185,0.250824233509608
+"406","Non Mammal","jellyfish",0.37182875655015,0.332406608636358
+"407","Non Mammal","ladybug",0.32988778746884,0.204842905285453
+"408","Non Mammal","lobster",0.323306904156823,0.271132460706558
+"409","Non Mammal","mosquito",0.370528480323253,0.333215668932076
+"410","Non Mammal","moth",0.365268129109722,0.274988818915448
+"411","Non Mammal","octopus",0.387383046001731,0.318186570211276
+"412","Non Mammal","scorpion",0.336153373969721,0.210226970087885
+"413","Non Mammal","seahorse",0.352656247863559,0.35516557561031
+"414","Non Mammal","shark",0.37015028891807,0.325311776390671
+"415","Non Mammal","snail",0.362969348101186,0.330786354393805
+"416","Non Mammal","snake",0.363827373693201,0.36736113288054
+"417","Non Mammal","spider",0.386433961199975,0.312882684175193
+"418","Non Mammal","starfish",0.375402083026687,0.322310620402152
+"419","Non Mammal","turtle",0.354418351736174,0.306387112076974
+"420","Non Mammal","worm",0.356487139972107,0.232407536964204
+"421","Places and Buildings","africa",0.27232356796175,0.213060880859474
+"422","Places and Buildings","airport",0.288703003963267,0.251544686954498
+"423","Places and Buildings","australia",0.26102938720627,0.110283225002165
+"424","Places and Buildings","bakery",0.240286797454819,0.254190012911834
+"425","Places and Buildings","bar",0.287043572620459,0.197675106251723
+"426","Places and Buildings","barn",0.288253855253261,0.205376659950753
+"427","Places and Buildings","cabin",0.332045519200145,0.248667593818062
+"428","Places and Buildings","castle",0.290089863418116,0.262685867450562
+"429","Places and Buildings","church",0.313504924830885,0.298385334342909
+"430","Places and Buildings","city",0.29538716993668,0.29883459262942
+"431","Places and Buildings","eiffeltower",0.25184938603847,0.109016763980968
+"432","Places and Buildings","house",0.300342323991781,0.230901704276949
+"433","Places and Buildings","hut",0.342282381071262,0.270895804066473
+"434","Places and Buildings","igloo",0.245306970098892,0.148842892701325
+"435","Places and Buildings","italy",0.255756327913501,0.18852245899336
+"436","Places and Buildings","library",0.303209866863406,0.284875625606175
+"437","Places and Buildings","lighthouse",0.252148631303504,0.176986327803697
+"438","Places and Buildings","pyramid",0.230722557537974,0.165336747451912
+"439","Places and Buildings","restaurant",0.304857043979386,0.315211149635652
+"440","Places and Buildings","stadium",0.292474074406653,0.329432702313903
+"441","Places and Buildings","tent",0.250326662504121,0.207565085827414
+"442","Places and Buildings","tepee",0.339021604780332,0.221008481796258
+"443","Places and Buildings","texas",0.248913502821748,0.137321429779139
+"444","Places and Buildings","windmill",0.260048279815796,0.215455367548004
+"445","School & Office Supplies","book",0.329237615366843,0.20576011259541
+"446","School & Office Supplies","box",0.321101939982001,0.0885518703334303
+"447","School & Office Supplies","calculator",0.280991229624633,0.195903105519748
+"448","School & Office Supplies","chalk",0.332446292419415,0.166735727356544
+"449","School & Office Supplies","chalkboard",0.374994293279045,0.33947944831318
+"450","School & Office Supplies","computer",0.321397243605831,0.215892022051513
+"451","School & Office Supplies","crayon",0.369998167607349,0.225877619794307
+"452","School & Office Supplies","envelope",0.341539610767977,0.108564346109309
+"453","School & Office Supplies","eraser",0.379043325921985,0.257638746544175
+"454","School & Office Supplies","globe",0.276084941424333,0.0637343441229665
+"455","School & Office Supplies","highlighter",0.307707018487664,0.17584356754361
+"456","School & Office Supplies","keyboard",0.332794379483763,0.126611506454202
+"457","School & Office Supplies","locker",0.346013007661606,0.309372175530098
+"458","School & Office Supplies","lunchbox",0.250611707536118,0.256866565191246
+"459","School & Office Supplies","marker",0.372794979430993,0.173192989845124
+"460","School & Office Supplies","microscope",0.31512401763488,0.165915234601997
+"461","School & Office Supplies","newspaper",0.348033922112923,0.256079414326782
+"462","School & Office Supplies","notebook",0.337051717067954,0.30793759277456
+"463","School & Office Supplies","package",0.311483263922773,0.153624557297383
+"464","School & Office Supplies","paper",0.415678025249294,0.301702607090597
+"465","School & Office Supplies","paperclip",0.323320834410615,0.187691122645831
+"466","School & Office Supplies","pen",0.39245918241446,0.252945021019864
+"467","School & Office Supplies","pencil",0.404615430311616,0.266610810357148
+"468","School & Office Supplies","printer",0.340738109745198,0.202575414448685
+"469","School & Office Supplies","rubberbands",0.335917541619197,0.193865431874016
+"470","School & Office Supplies","ruler",0.277970917338395,0.190367302705175
+"471","School & Office Supplies","scissors",0.33282497564671,0.175220941540685
+"472","School & Office Supplies","stamp",0.366865890554588,0.114629837906885
+"473","School & Office Supplies","stapler",0.356582426972258,0.415667227331389
+"474","School & Office Supplies","stapleremover",0.269991672324897,0.0971233195148786
+"475","School & Office Supplies","staples",0.351633797852061,0.452435409067622
+"476","School & Office Supplies","typewriter",0.331807052835345,0.232403051593859
+"477","Structure","birdbath",0.277200557237751,0.215951688032371
+"478","Structure","birdhouse",0.231487294708677,0.204959261293804
+"479","Structure","bleachers",0.281767103957285,0.233920793151319
+"480","Structure","bridge",0.342609385039492,0.369252608282717
+"481","Structure","ceiling",0.297630767044716,0.409542857153726
+"482","Structure","chimney",0.331542056168448,0.264508804335249
+"483","Structure","closet",0.311638834338315,0.275636924602012
+"484","Structure","crosswalk",0.232847285608879,0.124189603422976
+"485","Structure","door",0.398263889936018,0.328631160801174
+"486","Structure","elevator",0.303682137116818,0.282339112602565
+"487","Structure","fence",0.358023624175805,0.29097159215917
+"488","Structure","ferriswheel",0.267002127295007,0.202813190407133
+"489","Structure","firehydrant",0.299197379159996,0.29833241712769
+"490","Structure","fireplace",0.319157576940383,0.253953520586491
+"491","Structure","flag",0.248825205881538,0.249622798831048
+"492","Structure","fountain",0.30992829481135,0.205109956798458
+"493","Structure","garage",0.300401549347281,0.380070861034957
+"494","Structure","gate",0.337855837792424,0.230751658321881
+"495","Structure","mailbox",0.296140259324938,0.181512184114941
+"496","Structure","maze",0.26467695265625,0.206785374870529
+"497","Structure","road",0.323437391328559,0.357336846012604
+"498","Structure","rollercoaster",0.240638340679142,0.16727259965197
+"499","Structure","roof",0.342052861835671,0.421890341707542
+"500","Structure","sidewalk",0.340168044990805,0.356359930915561
+"501","Structure","sign",0.299159979382921,0.289739272256841
+"502","Structure","stage",0.293142547674208,0.418516700937634
+"503","Structure","statue",0.287165864341202,0.332992293320215
+"504","Structure","tunnel",0.250585546333878,0.219177086871128
+"505","Structure","well",0.170734453557334,0.241355436949648
+"506","Structure","window",0.348424580514347,0.406216339347749
+"507","Tools & Hardware","ax",0.299939951395986,0.259699261053789
+"508","Tools & Hardware","battery",0.325116682395752,0.332339156925683
+"509","Tools & Hardware","brick",0.314473288425938,0.162580242633899
+"510","Tools & Hardware","broom",0.346749585254522,0.204443316907255
+"511","Tools & Hardware","bucket",0.317631769134871,0.188912102060389
+"512","Tools & Hardware","chain",0.304973079163171,0.243744721985206
+"513","Tools & Hardware","dustpan",0.41225848819119,0.251799507487935
+"514","Tools & Hardware","flashlight",0.298709297013495,0.339017592411832
+"515","Tools & Hardware","flyswatter",0.330111383414599,0.208250964291628
+"516","Tools & Hardware","funnel",0.283318944162657,0.162927877548958
+"517","Tools & Hardware","hammer",0.358297692359704,0.427766702626949
+"518","Tools & Hardware","hinge",0.273485322897546,0.2298961159376
+"519","Tools & Hardware","hose",0.355611028415294,0.347506257484774
+"520","Tools & Hardware","iron",0.304023735290878,0.264138036764683
+"521","Tools & Hardware","ironingboard",0.24843367453498,0.109132084802922
+"522","Tools & Hardware","jack",0.238455845354935,0.127944061181756
+"523","Tools & Hardware","key",0.303006543103366,0.269168301996585
+"524","Tools & Hardware","ladder",0.329859658405074,0.296755624763452
+"525","Tools & Hardware","lawnmower",0.312553825575426,0.182300808525404
+"526","Tools & Hardware","lightbulb",0.354790055291041,0.249869847830616
+"527","Tools & Hardware","lighter",0.292465281725238,0.181907046321115
+"528","Tools & Hardware","lightswitch",0.292211558756796,0.218141545820255
+"529","Tools & Hardware","magnet",0.284820073397933,0.199258118360103
+"530","Tools & Hardware","match",0.250774006808272,0.210083610752371
+"531","Tools & Hardware","mop",0.291833572336761,0.193816203848618
+"532","Tools & Hardware","mousetrap",0.315077238717958,0.187570995984917
+"533","Tools & Hardware","nail",0.33639202425818,0.277066676054817
+"534","Tools & Hardware","paintbrush",0.304319360132222,0.317408366251045
+"535","Tools & Hardware","plug",0.354934536137565,0.252673898479905
+"536","Tools & Hardware","rake",0.301186852171045,0.197166870051033
+"537","Tools & Hardware","rope",0.359446233008282,0.256917364602377
+"538","Tools & Hardware","saw",0.28305458462772,0.212829319084168
+"539","Tools & Hardware","screw",0.332046507778926,0.225827288517995
+"540","Tools & Hardware","screwdriver",0.315232858194334,0.396564534516954
+"541","Tools & Hardware","shovel",0.305427960067925,0.331703722450035
+"542","Tools & Hardware","Springs",0.232359061989871,0.230555989866883
+"543","Tools & Hardware","thermometer",0.290665385875791,0.265579213781933
+"544","Tools & Hardware","vacuum",0.316146036586829,0.17915483429734
+"545","Tools & Hardware","wrench",0.328636217609329,0.418374793751813
+"546","Toys Games & Hobbies","ball",0.361738663244476,0.149866975840937
+"547","Toys Games & Hobbies","balloon",0.34665016407178,0.165631678947442
+"548","Toys Games & Hobbies","baseball",0.31876814739407,0.203982609674387
+"549","Toys Games & Hobbies","basketball",0.328617023055237,0.243684682474917
+"550","Toys Games & Hobbies","beads",0.28271059880791,0.047075726016045
+"551","Toys Games & Hobbies","binoculars",0.261325141788318,0.150424991478178
+"552","Toys Games & Hobbies","bubble",0.311519837568044,0.0851085212151559
+"553","Toys Games & Hobbies","camera",0.295987998226716,0.100352977460617
+"554","Toys Games & Hobbies","checkers",0.256044931625784,0.14672184615635
+"555","Toys Games & Hobbies","compass",0.237492299819463,0.0774963683687553
+"556","Toys Games & Hobbies","dart",0.306066067476944,0.133871017581613
+"557","Toys Games & Hobbies","dice",0.273296788664431,0.101266272373748
+"558","Toys Games & Hobbies","doll",0.296069511006095,0.299621604814913
+"559","Toys Games & Hobbies","dominoes",0.288272319295436,0.121078374927185
+"560","Toys Games & Hobbies","football",0.306050955759231,0.21553818009827
+"561","Toys Games & Hobbies","golfball",0.332057565499125,0.0671118358645747
+"562","Toys Games & Hobbies","hopscotch",0.323210294815722,0.25561067854915
+"563","Toys Games & Hobbies","jumprope",0.356166195306067,0.180104059702904
+"564","Toys Games & Hobbies","kite",0.295003323070698,0.0730948297799203
+"565","Toys Games & Hobbies","magnifyingglass",0.224824239632506,0.0460215631376633
+"566","Toys Games & Hobbies","marbles",0.300984989512465,0.247940819672671
+"567","Toys Games & Hobbies","medal",0.2553415320079,0.115986407711749
+"568","Toys Games & Hobbies","microphone",0.281328103398376,0.036241645746043
+"569","Toys Games & Hobbies","needle",0.278528096815004,0.0971140963249665
+"570","Toys Games & Hobbies","net",0.265960494078725,0.0670170672286892
+"571","Toys Games & Hobbies","record",0.230714676571375,0.0365917441951309
+"572","Toys Games & Hobbies","robot",0.265631396653431,0.181773611410836
+"573","Toys Games & Hobbies","sandcastle",0.202663799466189,0.151889612854539
+"574","Toys Games & Hobbies","sewingmachine",0.294727998776999,0.0664999293779094
+"575","Toys Games & Hobbies","skateboard",0.309415652143356,0.248046540496712
+"576","Toys Games & Hobbies","skis",0.243690791049457,0.153865076929784
+"577","Toys Games & Hobbies","sled",0.288435227950065,0.136136651186872
+"578","Toys Games & Hobbies","slide",0.3143724305424,0.0566856730256904
+"579","Toys Games & Hobbies","slingshot",0.304565616343946,0.22024846755144
+"580","Toys Games & Hobbies","sparkler",0.300090677793244,0.12669973311164
+"581","Toys Games & Hobbies","swing",0.329485299333456,0.0960579765144998
+"582","Toys Games & Hobbies","target",0.20826830960099,0.10412339863657
+"583","Toys Games & Hobbies","telescope",0.24541309406318,0.140015400212369
+"584","Toys Games & Hobbies","tennisball",0.238707544039413,0
+"585","Toys Games & Hobbies","thimble",0.311658592233604,0.219050139439335
+"586","Toys Games & Hobbies","tictactoe",0.312546398368939,0.159156012685435
+"587","Toys Games & Hobbies","top",0.23709881745161,0.0188350069060781
+"588","Toys Games & Hobbies","trophy",0.252454447594902,0.104425216829919
+"589","Toys Games & Hobbies","whistle",0.287611574754824,0.0270587150214766
+"590","Toys Games & Hobbies","yarn",0.284043758568692,0.168524904918073
+"591","Toys Games & Hobbies","yoyo",0.337402242093485,0.302579639303083
+"592","Types of People","baby",0.327574544043921,0.237361175083865
+"593","Types of People","boy",0.286552765470919,0.283545941817624
+"594","Types of People","bride",0.310461566387229,0.225217320862581
+"595","Types of People","captain",0.319427452539548,0.126066710935356
+"596","Types of People","cheerleaders",0.201672642430321,0.117597677068815
+"597","Types of People","choir",0.239372243583674,0.173733135658666
+"598","Types of People","clown",0.286917776991096,0.146397128153545
+"599","Types of People","cowboy",0.310850239494492,0.228698871118707
+"600","Types of People","dentist",0.273043385485368,0.177880080415455
+"601","Types of People","doctor",0.309858080886014,0.154541833163059
+"602","Types of People","farmer",0.302907255518964,0.183342406094301
+"603","Types of People","fisherman",0.305872345136139,0.0917933437411014
+"604","Types of People","girl",0.332231577742828,0.283778639862456
+"605","Types of People","judge",0.233117774046703,0.18053279401242
+"606","Types of People","mailman",0.294882540548836,0.187663237055498
+"607","Types of People","man",0.326756091201259,0.354164846626775
+"608","Types of People","nun",0.231882161082386,0.188824292341383
+"609","Types of People","nurse",0.325809652831088,0.140531440355404
+"610","Types of People","painter",0.265351197659603,0.118107918888566
+"611","Types of People","pilgrim",0.243314860163132,0.12598001550219
+"612","Types of People","pilot",0.327273064279825,0.172613430236365
+"613","Types of People","priest",0.316555577022915,0.203216322927241
+"614","Types of People","sailor",0.33781182377861,0.141743256366363
+"615","Types of People","teacher",0.371114819160475,0.190572161830382
+"616","Types of People","twins",0.208257996945906,0.103970478918297
+"617","Types of People","waiter",0.330768702298802,0.201273107595788
+"618","Types of People","waitress",0.328281096222121,0.145538108614694
+"619","Uncategorized","bird",0.291745038519653,0.301311653419103
+"620","Uncategorized","bomb",0.322910463265973,0.249793327081358
+"621","Uncategorized","bullet",0.354875714147867,0.224944956014213
+"622","Uncategorized","cage",0.301359414665285,0.289537829303049
+"623","Uncategorized","cannon",0.288022747644195,0.278233741704448
+"624","Uncategorized","cigar",0.271327757500644,0.176978052441734
+"625","Uncategorized","cigarette",0.313521615539247,0.172764622393598
+"626","Uncategorized","coins",0.292291387945614,0.229775782266431
+"627","Uncategorized","cross",0.319287548319088,0.292477941273032
+"628","Uncategorized","fruit",0.27409984484675,0.298330396251793
+"629","Uncategorized","grenade",0.252401017088001,0.111925919368712
+"630","Uncategorized","heart",0.302221238868305,0.229744216500822
+"631","Uncategorized","knot",0.263563483969978,0.348586892991341
+"632","Uncategorized","licenseplate",0.287617033336816,0.387554674925786
+"633","Uncategorized","mask",0.257026933301967,0.223118176660173
+"634","Uncategorized","menu",0.266159447294769,0.217879302288256
+"635","Uncategorized","money",0.282512604986637,0.22599073237909
+"636","Uncategorized","parachute",0.316829953792425,0.224669693728954
+"637","Uncategorized","passports",0.240630271728157,0.211305293006538
+"638","Uncategorized","penny",0.255470520631401,0.215211988321612
+"639","Uncategorized","saddle",0.284187958444592,0.203586105762482
+"640","Uncategorized","shapes",0.295027675773302,0.1667549711892
+"641","Uncategorized","steam",0.231275795994267,0.24150167676559
+"642","Uncategorized","stethoscope",0.252403226115247,0.140981075627892
+"643","Uncategorized","ticket",0.293994904295393,0.251206205766657
+"644","Uncategorized","vegetables",0.261895397872789,0.293321299806448
+"645","Uncategorized","wheel",0.330056951929941,0.284769014321549
+"646","Uncategorized","whip",0.247139901674674,0.197953392841149
+"647","Vehicles","airplane",0.355869936482025,0.304721765281858
+"648","Vehicles","ambulance",0.253282449177215,0.304693394002417
+"649","Vehicles","anchor",0.319828765282565,0.228540403151198
+"650","Vehicles","blimp",0.301362503104249,0.304225871030199
+"651","Vehicles","bus",0.358420383445142,0.336316416415072
+"652","Vehicles","canoe",0.354875622421277,0.229032588524379
+"653","Vehicles","car",0.385265961276234,0.593613087487261
+"654","Vehicles","golfcart",0.255366583690556,0.246660541211415
+"655","Vehicles","helicopter",0.342989101066256,0.337283967689213
+"656","Vehicles","hotairballoon",0.243366647721289,0.228855713187689
+"657","Vehicles","motorcycle",0.367074687672402,0.477468531007341
+"658","Vehicles","rocket",0.331544899616591,0.347083308178127
+"659","Vehicles","sails",0.289136552453836,0.246078004473738
+"660","Vehicles","ship",0.387926671396531,0.374585132183221
+"661","Vehicles","stroller",0.287681505449316,0.3123273494067
+"662","Vehicles","submarine",0.308176395560825,0.21909777700697
+"663","Vehicles","tank",0.356032477142056,0.437139204125181
+"664","Vehicles","tire",0.351221502945589,0.393933013175723
+"665","Vehicles","tractor",0.35063568519122,0.422608816992489
+"666","Vehicles","train",0.333940001184912,0.283224577781196
+"667","Vehicles","truck",0.390108095358961,0.594297002624614
+"668","Vehicles","unicycle",0.334224564450362,0.344482723551743
+"669","Vehicles","van",0.348285555872357,0.339404167731507
+"670","Vehicles","wheelchair",0.316033036592848,0.409299939401331
