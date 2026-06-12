@@ -197,7 +197,7 @@ item_similarities_long <- list.dirs(base_dir, recursive = FALSE) %>%
       ) %>%
       mutate(Category = cat_name)
   }) %>%
-  select(Category, Item, Similarity)
+  select(Category, Item, Similarity) %>%filter(Category != "Uncategorized")
 
 #import AVERAGED label x item and interitem similarities 
 average_similarities<-read.csv("category_average_similarity_combined.csv")%>%rename("Similarity_Type"="Matrix_Type")
@@ -249,7 +249,7 @@ We can also look at outliers in each category to mark weak items. Note this is o
 #Item wise distribution of label x item similarity across categories (DSM derived)
 #ID outliers
 interitem_outliers <- item_similarities_long %>%
-  filter(Category != "NA") %>%
+  filter(Category != "Uncategorized") %>%
   group_by(Category) %>%
   mutate(
     Q1 = quantile(`Similarity`, 0.25, na.rm = TRUE),
@@ -340,8 +340,8 @@ walk(cat_dirs, function(cat_path) {
 # Output average cohesion scores per item per category
 
 ```{r}
-all_item_means_join<-all_item_means %>%left_join(item_similarities_long%>%rename(item=Item,category=Category,LabelCohesionScore=Similarity))
-#write.csv(all_item_means_join,"670_Cohesion_scores.csv")
+all_item_means_join<-all_item_means %>%left_join(item_similarities_long%>%rename(item=Item,category=Category,LabelCohesionScore=Similarity))%>% filter(category != "Uncategorized") 
+write.csv(all_item_means_join,"670_Cohesion_scores.csv")
 
 ```
 

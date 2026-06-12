@@ -617,34 +617,34 @@ ItemNumber,Image,Audio,NormName,NameAgr,FrqPerMil.Log10,LOG10(SUBTLWF +1),SUBTLW
 571,twins_571_mono.jpg,twins_571_mono.wav,twins,0.85,1.206825876,1.206772981,16.09803922,15.09803922,3.833333333,4,tw?n,,1,1,twins,t,Types of People,0.103970479,0.208257997
 585,waiter_585_mono.jpg,waiter_585_mono.wav,waiter,0.95,1.152288344,1.15216839,14.19607843,13.19607843,3.5,5,wet?r,,1,2,waiter,w,Types of People,0.201273108,0.330768702
 587,waitress_587_mono.jpg,waitress_587_mono.wav,waitress,0.95,1.097951071,1.097930682,12.52941176,11.52941176,4,6,wetr?s,,1,2,waitress,w,Types of People,0.145538109,0.328281096
-51,bird_51_mono.jpg,bird_51_mono.wav,bird,0.8,1.666985718,1.666994885,46.45098039,45.45098039,2.6,4,b?rd,,1,1,bird,b,Uncategorized,0.301311653,0.291745039
-57,bomb_57_mono.jpg,bomb_57_mono.wav,bomb,0.9,1.737590166,1.737566793,54.64705882,53.64705882,1.769230769,3,b?m,,1,1,bomb,b,Uncategorized,0.249793327,0.322910463
-812,bullet_812_mono.jpg,bullet_812_mono.wav,bullet,0.95,1.593676913,1.593676913,39.23529412,38.23529412,1,5,b?l?t,b?l?t,1,2,bullet,b,Uncategorized,0.224944956,0.354875714
-87,cage_87_mono.jpg,cage_87_mono.wav,cage,1,1.32776749,1.327859562,21.2745098,20.2745098,2.111111111,3,ked?,,1,1,cage,k,Uncategorized,0.289537829,0.301359415
-97,cannon_97_mono.jpg,cannon_97_mono.wav,cannon,1,0.98721923,0.987035023,9.705882353,8.705882353,2.272727273,5,kæn?n,,1,2,cannon,k,Uncategorized,0.278233742,0.288022748
-126,cigar_126_mono.jpg,cigar_126_mono.wav,cigar,1,1.144262774,1.144299425,13.94117647,12.94117647,3.5,5,s???r,,1,2,cigar,s,Uncategorized,0.176978052,0.271327758
-127,cigarette_127_mono.jpg,cigarette_127_mono.wav,cigarette,1,1.441066407,1.441032479,27.60784314,26.60784314,1.555555556,7,s???r?t,,1,3,cigarette,s,Uncategorized,0.172764622,0.313521616
-817,coins_817_mono.jpg,coins_817_mono.wav,coins,0.95,0.723793588,0.723793588,5.294117647,4.294117647,3.727272727,3,k??n,,1,1,coins,k,Uncategorized,0.229775782,0.292291388
-150,cross_150_mono.jpg,cross_150_mono.wav,cross,1,1.748498127,1.748492048,56.03921569,55.03921569,1,4,kr?s,,1,1,cross,k,Uncategorized,0.292477941,0.319287548
-221,fruit_221_mono.jpg,fruit_221_mono.wav,fruit,0.95,1.356599436,1.35651326,22.7254902,21.7254902,4.454545455,4,frut,,1,1,fruit,f,Uncategorized,0.298330396,0.274099845
-241,grenade_241_mono.jpg,grenade_241_mono.wav,grenade,0.95,0.748962861,0.748795857,5.607843137,4.607843137,1.769230769,6,?r?ned,,1,2,grenade,?,Uncategorized,0.111925919,0.252401017
-253,heart_253_mono.jpg,heart_253_mono.wav,heart,1,2.389485041,2.389478789,245.1764706,244.1764706,1,4,h?rt,,1,1,heart,h,Uncategorized,0.229744217,0.302221239
-830,knot_830_mono.jpg,knot_830_mono.wav,knot,0.95,0.670827725,0.670827725,4.68627451,3.68627451,2.555555556,3,n?t,,1,1,knot,n,Uncategorized,0.348586893,0.263563484
-301,licenseplate_301_cmpd.jpg,licenseplate_301_cmpd.wav,licenseplate,1,0,#VALUE!,#VALUE!,-,2.666666667,10,la?s?nsplet,,2,3,license plate,l,Uncategorized,0.387554675,0.287617033
-325,mask_325_mono.jpg,mask_325_mono.wav,mask,0.9,1.318063335,1.318145208,20.80392157,19.80392157,3.461538462,4,mæsk,,1,1,mask,m,Uncategorized,0.223118177,0.257026933
-331,menu_331_mono.jpg,menu_331_mono.wav,menu,1,1.039810554,1.039841632,10.96078431,9.960784314,2.5,5,m?nju,,1,2,menu,m,Uncategorized,0.217879302,0.266159447
-335,money_335_mono.jpg,money_335_mono.wav,money,0.9,2.807372645,2.807375829,641.7647059,640.7647059,3,4,m?ni,,1,2,money,m,Uncategorized,0.225990732,0.282512605
-374,parachute_374_mono.jpg,parachute_374_mono.wav,parachute,1,0.621176282,0.620809427,4.176470588,3.176470588,3.222222222,7,pær??ut,per??ut,1,3,parachute,p,Uncategorized,0.224669694,0.316829954
-375,passports_375_cmpd.jpg,passports_375_cmpd.wav,passports,1,0.525044807,0.525425934,3.352941176,2.352941176,2.111111111,7,pæsp?rt,,2,2,passports,p,Uncategorized,0.211305293,0.240630272
-382,penny_382_mono.jpg,penny_382_mono.wav,penny,1,1.402948829,1.403019534,25.29411765,24.29411765,1.769230769,4,p?ni,,1,2,penny,p,Uncategorized,0.215211988,0.255470521
-441,saddle_441_mono.jpg,saddle_441_mono.wav,saddle,1,0.945468585,0.945642338,8.823529412,7.823529412,3,5,sæd?l,,1,2,saddle,s,Uncategorized,0.203586106,0.284187958
-459,shapes_459_mono.jpg,shapes_459_mono.wav,shapes,0.95,0.462397998,0.462691539,2.901960784,1.901960784,1.444444444,3,?ep,,1,1,shapes,?,Uncategorized,0.166754971,0.295027676
-856,steam_856_mono.jpg,steam_856_mono.wav,steam,1,1.159897312,1.159897312,14.45098039,13.45098039,2.333333333,4,stim,,1,1,steam,s,Uncategorized,0.241501677,0.231275796
-504,stethoscope_504_mono.jpg,stethoscope_504_mono.wav,stethoscope,0.95,0.28780173,0.288065018,1.941176471,0.941176471,2,9,st???skop,,1,3,stethoscope,s,Uncategorized,0.140981076,0.252403226
-539,ticket_539_mono.jpg,ticket_539_mono.wav,ticket,0.85,1.668106238,1.668093438,46.56862745,45.56862745,2.428571429,5,t?k?t,,1,2,ticket,t,Uncategorized,0.251206206,0.293994904
-580,vegetables_580_mono.jpg,vegetables_580_mono.wav,vegetables,0.9,0.882524538,0.882379425,7.62745098,6.62745098,4.111111111,8,v?d?t?b?l,v?t?t?b?l,1,3,vegetables,v,Uncategorized,0.2933213,0.261895398
-596,wheel_596_mono.jpg,wheel_596_mono.wav,wheel,1,1.448087667,1.448069458,28.05882353,27.05882353,2.6,3,wil,,1,1,wheel,w,Uncategorized,0.284769014,0.330056952
-599,whip_599_mono.jpg,whip_599_mono.wav,whip,0.95,1.151063253,1.150967021,14.15686275,13.15686275,1.142857143,3,w?p,,1,1,whip,w,Uncategorized,0.197953393,0.247139902
+51,bird_51_mono.jpg,bird_51_mono.wav,bird,0.8,1.666985718,1.666994885,46.45098039,45.45098039,2.6,4,b?rd,,1,1,bird,b,Uncategorized,,
+57,bomb_57_mono.jpg,bomb_57_mono.wav,bomb,0.9,1.737590166,1.737566793,54.64705882,53.64705882,1.769230769,3,b?m,,1,1,bomb,b,Uncategorized,,
+812,bullet_812_mono.jpg,bullet_812_mono.wav,bullet,0.95,1.593676913,1.593676913,39.23529412,38.23529412,1,5,b?l?t,b?l?t,1,2,bullet,b,Uncategorized,,
+87,cage_87_mono.jpg,cage_87_mono.wav,cage,1,1.32776749,1.327859562,21.2745098,20.2745098,2.111111111,3,ked?,,1,1,cage,k,Uncategorized,,
+97,cannon_97_mono.jpg,cannon_97_mono.wav,cannon,1,0.98721923,0.987035023,9.705882353,8.705882353,2.272727273,5,kæn?n,,1,2,cannon,k,Uncategorized,,
+126,cigar_126_mono.jpg,cigar_126_mono.wav,cigar,1,1.144262774,1.144299425,13.94117647,12.94117647,3.5,5,s???r,,1,2,cigar,s,Uncategorized,,
+127,cigarette_127_mono.jpg,cigarette_127_mono.wav,cigarette,1,1.441066407,1.441032479,27.60784314,26.60784314,1.555555556,7,s???r?t,,1,3,cigarette,s,Uncategorized,,
+817,coins_817_mono.jpg,coins_817_mono.wav,coins,0.95,0.723793588,0.723793588,5.294117647,4.294117647,3.727272727,3,k??n,,1,1,coins,k,Uncategorized,,
+150,cross_150_mono.jpg,cross_150_mono.wav,cross,1,1.748498127,1.748492048,56.03921569,55.03921569,1,4,kr?s,,1,1,cross,k,Uncategorized,,
+221,fruit_221_mono.jpg,fruit_221_mono.wav,fruit,0.95,1.356599436,1.35651326,22.7254902,21.7254902,4.454545455,4,frut,,1,1,fruit,f,Uncategorized,,
+241,grenade_241_mono.jpg,grenade_241_mono.wav,grenade,0.95,0.748962861,0.748795857,5.607843137,4.607843137,1.769230769,6,?r?ned,,1,2,grenade,?,Uncategorized,,
+253,heart_253_mono.jpg,heart_253_mono.wav,heart,1,2.389485041,2.389478789,245.1764706,244.1764706,1,4,h?rt,,1,1,heart,h,Uncategorized,,
+830,knot_830_mono.jpg,knot_830_mono.wav,knot,0.95,0.670827725,0.670827725,4.68627451,3.68627451,2.555555556,3,n?t,,1,1,knot,n,Uncategorized,,
+301,licenseplate_301_cmpd.jpg,licenseplate_301_cmpd.wav,licenseplate,1,0,#VALUE!,#VALUE!,-,2.666666667,10,la?s?nsplet,,2,3,license plate,l,Uncategorized,,
+325,mask_325_mono.jpg,mask_325_mono.wav,mask,0.9,1.318063335,1.318145208,20.80392157,19.80392157,3.461538462,4,mæsk,,1,1,mask,m,Uncategorized,,
+331,menu_331_mono.jpg,menu_331_mono.wav,menu,1,1.039810554,1.039841632,10.96078431,9.960784314,2.5,5,m?nju,,1,2,menu,m,Uncategorized,,
+335,money_335_mono.jpg,money_335_mono.wav,money,0.9,2.807372645,2.807375829,641.7647059,640.7647059,3,4,m?ni,,1,2,money,m,Uncategorized,,
+374,parachute_374_mono.jpg,parachute_374_mono.wav,parachute,1,0.621176282,0.620809427,4.176470588,3.176470588,3.222222222,7,pær??ut,per??ut,1,3,parachute,p,Uncategorized,,
+375,passports_375_cmpd.jpg,passports_375_cmpd.wav,passports,1,0.525044807,0.525425934,3.352941176,2.352941176,2.111111111,7,pæsp?rt,,2,2,passports,p,Uncategorized,,
+382,penny_382_mono.jpg,penny_382_mono.wav,penny,1,1.402948829,1.403019534,25.29411765,24.29411765,1.769230769,4,p?ni,,1,2,penny,p,Uncategorized,,
+441,saddle_441_mono.jpg,saddle_441_mono.wav,saddle,1,0.945468585,0.945642338,8.823529412,7.823529412,3,5,sæd?l,,1,2,saddle,s,Uncategorized,,
+459,shapes_459_mono.jpg,shapes_459_mono.wav,shapes,0.95,0.462397998,0.462691539,2.901960784,1.901960784,1.444444444,3,?ep,,1,1,shapes,?,Uncategorized,,
+856,steam_856_mono.jpg,steam_856_mono.wav,steam,1,1.159897312,1.159897312,14.45098039,13.45098039,2.333333333,4,stim,,1,1,steam,s,Uncategorized,,
+504,stethoscope_504_mono.jpg,stethoscope_504_mono.wav,stethoscope,0.95,0.28780173,0.288065018,1.941176471,0.941176471,2,9,st???skop,,1,3,stethoscope,s,Uncategorized,,
+539,ticket_539_mono.jpg,ticket_539_mono.wav,ticket,0.85,1.668106238,1.668093438,46.56862745,45.56862745,2.428571429,5,t?k?t,,1,2,ticket,t,Uncategorized,,
+580,vegetables_580_mono.jpg,vegetables_580_mono.wav,vegetables,0.9,0.882524538,0.882379425,7.62745098,6.62745098,4.111111111,8,v?d?t?b?l,v?t?t?b?l,1,3,vegetables,v,Uncategorized,,
+596,wheel_596_mono.jpg,wheel_596_mono.wav,wheel,1,1.448087667,1.448069458,28.05882353,27.05882353,2.6,3,wil,,1,1,wheel,w,Uncategorized,,
+599,whip_599_mono.jpg,whip_599_mono.wav,whip,0.95,1.151063253,1.150967021,14.15686275,13.15686275,1.142857143,3,w?p,,1,1,whip,w,Uncategorized,,
 801,airplane_801_cmpd.jpg,airplane_801_cmpd.wav,airplane,0.75,1.076333403,1.076333403,11.92156863,10.92156863,1.727272727,6,erplen,,2,2,airplane,er,Vehicles,0.304721765,0.355869936
 7,ambulance_7_mono.jpg,ambulance_7_mono.wav,ambulance,1,1.369401414,1.369434151,23.41176471,22.41176471,3.833333333,9,æmbj?l?ns,"æmbj?læns, æmb?l?ns",1,3,ambulance,æ,Vehicles,0.304693394,0.253282449
 8,anchor_8_mono.jpg,anchor_8_mono.wav,anchor,0.95,0.924795996,0.924887116,8.411764706,7.411764706,1,5,æ?k?r,,1,2,anchor,æ,Vehicles,0.228540403,0.319828765
