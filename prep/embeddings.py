@@ -7,7 +7,7 @@ import os
 class embeddings:
     """
     Creates USE embeddings and vocab file from a list of words.
-    Ensures category label is always first row and never reordered.
+    First row is always category name.
     """
 
     def __init__(self, words, path_for_lexical_data):
@@ -29,7 +29,7 @@ class embeddings:
         # -----------------------------
         items = [w.lower() for w in items]
 
-        # optional: remove duplicates BUT preserve order
+        # Remove duplicates BUT preserve order
         seen = set()
         items_clean = []
         for w in items:

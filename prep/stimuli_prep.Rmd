@@ -46,7 +46,7 @@ library(dplyr)
 
 # Clean + sort 
 stimuli_clean <- stimuli %>%
-  select(NormName, CategoryName) %>%
+  select(Target, CategoryName) %>%
   arrange(CategoryName) %>%
   filter(!is.na(CategoryName), CategoryName != "NA")
 
@@ -57,27 +57,27 @@ stimuli_split <- split(stimuli_clean, stimuli_clean$CategoryName)
 dir.create("stimuli_by_category", showWarnings = FALSE)
 
 # Write files
-for (cat in names(stimuli_split)) {
+#for (cat in names(stimuli_split)) {
 
-  dir.create(file.path("stimuli_by_category", cat), showWarnings = FALSE)
+  #dir.create(file.path("stimuli_by_category", cat), showWarnings = FALSE)
 
-  df_cat <- stimuli_split[[cat]]
+  #df_cat <- stimuli_split[[cat]]
 
   # remove category column
-  words <- df_cat$NormName
+  #words <- df_cat$Target
 
   # ---- ADD CATEGORY NAME AS FIRST ROW ----
-  output_vec <- c(cat, words)
+  #output_vec <- c(cat, words)
 
   # write to CSV as single-column file
-  write.table(
-    data.frame(output_vec),
-    file = file.path("stimuli_by_category", cat, "vocab.csv"),
-    row.names = FALSE,
-    col.names = FALSE,
-    quote = FALSE
-  )
-}
+  #write.table(
+  #  data.frame(output_vec),
+   # file = file.path("stimuli_by_category", cat, "vocab.csv"),
+  #  row.names = FALSE,
+  #  col.names = FALSE,
+  #  quote = FALSE
+ # )
+#}
 
 ```
 

@@ -146,7 +146,7 @@ def compute_all_matrix_types(base_dir):
 
 
 # =========================
-# CLEAN PIPELINE INTERFACE
+# PIPELINE INTERFACE
 # =========================
 
 def build_all_matrices(base_dir):
